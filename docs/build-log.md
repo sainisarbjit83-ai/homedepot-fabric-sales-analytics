@@ -31,7 +31,8 @@ _(<img width="3570" height="1757" alt="image" src="https://github.com/user-attac
 - **Decision:** star schema (not flat/snowflake) for VertiPaq compression and simpler DAX relationships.
 - **Note:** this is SCD Type 1 (overwrite) — Type 2 (historical tracking) would need `EffectiveDate`/`IsCurrent` columns.
 
-_(screenshot: `screenshots/gold-tables.png`)_
+_(<img width="897" height="1580" alt="image" src="https://github.com/user-attachments/assets/b0c75525-d050-4a47-8a3d-1f24482d8361" />
+
 
 ## Phase 4 — Semantic Model
 - Created semantic model `Sales_Gold` directly from the gold Delta tables (Direct Lake mode).
