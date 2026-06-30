@@ -19,8 +19,10 @@
 - Null-handled `CustomerName` → "Unknown".
 - Wrote to `sales_silver` Delta table using `MERGE` (upsert) instead of overwrite.
 - **Decision:** MERGE makes reruns idempotent — safe to re-trigger the pipeline without creating duplicates.
+- - Verified row count post-merge: 2,278 rows (matches sum of source CSVs: 654 + 762 + 862).
 
-_(screenshot: `screenshots/silver-notebook.png`)_
+_(<img width="3570" height="1757" alt="image" src="https://github.com/user-attachments/assets/235580ad-c537-42d1-80d4-0f2b9e862b3d" />
+`)_
 
 ## Phase 3 — Gold Layer
 - Notebook: `Transform data for Gold`
