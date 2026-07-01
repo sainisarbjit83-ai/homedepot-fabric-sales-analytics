@@ -1,6 +1,6 @@
 # 🏠 Home Depot Fabric Sales Analytics
 
-End-to-end Microsoft Fabric + Power BI project built as a portfolio piece 
+End-to-end Microsoft Fabric + Power BI project  
 demonstrating medallion architecture, dimensional modeling, and retail 
 sales reporting.
 
