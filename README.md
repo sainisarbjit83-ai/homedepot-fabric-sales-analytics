@@ -92,59 +92,6 @@ tables clean and measures easy to find).
 
 ---
 
-## 📸 Screenshots
-
-### Bronze — Raw File Storage
-![Bronze Files](screenshots/bronze-files.png)
-*Three yearly CSV files stored untransformed in `Files/bronze` — 
-preserving original data for lineage and replay.*
-
-### Silver — Clean & Audit Layer
-![Silver Schema](screenshots/silver-schema-cell.png)
-*Explicit StructType schema prevents Spark from misreading OrderDate as 
-a string or Tax as an integer — no silent type errors.*
-
-![Silver Audit Columns](screenshots/silver-audit-columns-cell.png)
-*Audit columns added: FileName (lineage), IsFlagged (business rule), 
-CreatedTS/ModifiedTS (load timestamps). Essential for production traceability.*
-
-![Silver Merge](screenshots/silver-merge-cell.png)
-*MERGE upsert pattern — existing rows left untouched, only new rows inserted. 
-Makes pipeline reruns safe and idempotent.*
-
-![Silver Row Count](screenshots/silver-row-count.png)
-*Post-merge validation: 2,278 rows = 654 (2019) + 762 (2020) + 862 (2021). 
-Confirms all three CSVs loaded correctly with no duplicates.*
-
-### Gold — Star Schema
-![Customer Dimension](screenshots/gold-dimcustomer-preview.png)
-*Customer dimension: First/Last name split from full name, 
-surrogate CustomerID assigned via monotonically_increasing_id() 
-offset by current max ID — prevents collisions on incremental loads.*
-
-![Product Dimension](screenshots/gold-dimproduct-preview.png)
-*Product dimension: "Cordless Drill, 20V Max" split into 
-ItemName + ItemInfo — enables category-level filtering in reports.*
-
-![Fact Table](screenshots/gold-factsales-preview.png)
-*Fact table: CustomerID and ItemID populated as integers (no nulls) — 
-confirms left joins to dimension tables resolved correctly.*
-
-![All Tables](screenshots/gold-all-tables.png)
-*Full medallion architecture in Lakehouse Explorer: 
-sales_silver + four gold Delta tables, all with Delta triangle icons.*
-
-### Semantic Model
-![Relationships](screenshots/semantic-model-relationships.png)
-*Star schema in Power BI — factsales_gold at center, 
-three dimensions connected via one-to-many single-direction relationships.*
-
-![Measures Table](screenshots/measures-table.png)
-*10 DAX measures in dedicated Measures_table — foundation + 
-time intelligence measures including YoY Growth % and Rolling 3-Month Average.*
-
----
-
 ## 📁 Folder Structure
 
 ```
