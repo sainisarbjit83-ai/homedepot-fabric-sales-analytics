@@ -34,13 +34,39 @@ _(<img width="3570" height="1757" alt="image" src="https://github.com/user-attac
 _(<img width="897" height="1580" alt="image" src="https://github.com/user-attachments/assets/b0c75525-d050-4a47-8a3d-1f24482d8361" />
 
 
-## Phase 4 — Semantic Model
-- Created semantic model `Sales_Gold` directly from the gold Delta tables (Direct Lake mode).
-- Relationships: fact-to-dimension, single-direction.
-- Key DAX measures: Total Sales, YoY Sales Growth %, Total Customers, Rolling 3-Month Average.
-- **Decision:** Direct Lake chosen over Import to avoid duplicate data and a separate refresh schedule.
+- ## Phase 4 — Semantic Model
+- Created semantic model `Sales_Gold` directly from the four gold Delta tables.
+- Connection mode: **Direct Lake** — reads directly from OneLake Delta files, 
+  no separate data copy or refresh needed.
+- Relationships: fact-to-dimension, one-to-many, single direction on all three.
+  - factsales_gold[CustomerID] → dimcustomer_gold[CustomerID]
+  - factsales_gold[ItemID] → dimproduct_gold[ItemID]
+  - factsales_gold[OrderDate] → dimdate_gold[OrderDate]
+- Marked dimdate_gold as Date Table on OrderDate column.
+- Created Measures_table with 10 DAX measures:
 
-_(screenshot: `screenshots/semantic-model-relationships.png`)_
+**Foundation measures:**
+  - Total Revenue = SUMX (Quantity × UnitPrice)
+  - Total Tax = SUM of Tax column
+  - Total Sales = Total Revenue + Total Tax
+  - Total Orders = COUNTROWS of fact table
+  - Total Customers = DISTINCTCOUNT of CustomerID
+  - Avg Order Value = DIVIDE(Total Revenue, Total Orders)
+
+**Time intelligence measures:**
+  - Total Revenue YTD = TOTALYTD
+  - Total Revenue LY = CALCULATE + SAMEPERIODLASTYEAR
+  - YoY Growth % = (This Year - Last Year) / Last Year
+  - Rolling 3-Month Avg Revenue = AVERAGEX + DATESINPERIOD
+
+- **Decision:** Used measure branching — complex measures reference 
+  simpler ones so fixes cascade automatically.
+- **Decision:** Used DIVIDE instead of / to handle division by zero gracefully.
+- **Decision:** Direct Lake chosen over Import — no duplicate data, 
+  no scheduled refresh needed, Import-like speed.
+
+_(<img width="3640" height="1595" alt="image" src="https://github.com/user-attachments/assets/8e381f49-abfb-4137-931c-0531ee63490e" />
+
 
 ## Phase 5 — Report
 - Pages: Executive Summary, Product Breakdown, Customer Drill-through.
