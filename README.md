@@ -4,9 +4,6 @@ End-to-end Microsoft Fabric + Power BI project
 demonstrating medallion architecture, dimensional modeling, and retail 
 sales reporting.
 
-> **Note:** Data is synthetic/sample data styled around a home-improvement 
-retail scenario. Not real Home Depot data.
-
 ---
 
 ## Architecture
