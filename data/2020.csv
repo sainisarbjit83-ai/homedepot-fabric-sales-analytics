@@ -1,0 +1,763 @@
+SalesOrderNumber,SalesOrderLineNumber,OrderDate,CustomerName,Email,Item,Quantity,UnitPrice,Tax
+HD10251,1,2020-03-08,Richard Martin,richard54@homemail.com,"Storage Shelving, 5-Tier Steel",2,89.0,14.685
+HD10251,2,2020-03-08,Richard Martin,richard54@homemail.com,"Lumber 2x4x8, Cedar",1,7.5,0.6188
+HD10251,3,2020-03-08,Richard Martin,richard54@homemail.com,"Cordless Drill, 20V Max",3,99.0,24.5025
+HD10252,1,2020-01-31,Donna Wilson,donna65@homemail.com,"Patio Furniture Set, 4-Piece",4,449.0,148.17
+HD10252,2,2020-01-31,Donna Wilson,donna65@homemail.com,"Mulch, 2 cu ft Bag",1,4.5,0.3713
+HD10252,3,2020-01-31,Donna Wilson,donna65@homemail.com,"Storage Shelving, 5-Tier Steel",5,89.0,36.7125
+HD10253,1,2020-02-12,Elizabeth Williams,elizabeth66@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",5,15.5,6.3938
+HD10253,2,2020-02-12,Elizabeth Williams,elizabeth66@homemail.com,"Sandpaper Pack, Assorted Grit",1,8.99,0.7417
+HD10254,1,2020-08-11,Sandra Davis,sandra8@homemail.com,"Paint Interior, 1 Gallon White",4,32.0,10.56
+HD10254,2,2020-08-11,Sandra Davis,sandra8@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",5,24.99,10.3084
+HD10255,1,2020-12-07,Sandra Thompson,sandra95@homemail.com,"Paint Exterior, 1 Gallon Beige",1,38.0,3.135
+HD10255,2,2020-12-07,Sandra Thompson,sandra95@homemail.com,"Cordless Drill, 20V Max",2,99.0,16.335
+HD10256,1,2020-06-26,Brian Moore,brian93@homemail.com,"Garden Hose, 50 ft",3,24.99,6.185
+HD10256,2,2020-06-26,Brian Moore,brian93@homemail.com,"Tool Set, 75-Piece",1,69.0,5.6925
+HD10256,3,2020-06-26,Brian Moore,brian93@homemail.com,"Cordless Drill, 18V Compact",3,79.0,19.5525
+HD10257,1,2020-05-19,Brian Williams,brian34@homemail.com,"Window Blinds, Cordless 36 in",4,27.0,8.91
+HD10258,1,2020-01-29,Karen Martin,karen22@homemail.com,"Garden Hose, 50 ft",3,24.99,6.185
+HD10258,2,2020-01-29,Karen Martin,karen22@homemail.com,"Wood Screws, 1lb Box",1,6.49,0.5354
+HD10258,3,2020-01-29,Karen Martin,karen22@homemail.com,"Patio Furniture Set, 4-Piece",1,449.0,37.0425
+HD10259,1,2020-01-07,Jennifer Johnson,jennifer61@homemail.com,"Concrete Mix, 60 lb Bag",2,5.85,0.9652
+HD10259,2,2020-01-07,Jennifer Johnson,jennifer61@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10259,3,2020-01-07,Jennifer Johnson,jennifer61@homemail.com,"Power Washer, 2000 PSI Electric",2,159.0,26.235
+HD10260,1,2020-08-01,Sandra Hernandez,sandra35@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10261,1,2020-12-10,Maria Garcia,maria29@homemail.com,"Mulch, 2 cu ft Bag",1,4.5,0.3713
+HD10262,1,2020-05-24,,steven42@homemail.com,"Caulk Gun Kit, with Sealant",4,11.99,3.9567
+HD10263,1,2020-04-12,Elizabeth Martin,elizabeth39@homemail.com,"Smoke Detector, Battery Combo",3,22.5,5.5688
+HD10263,2,2020-04-12,Elizabeth Martin,elizabeth39@homemail.com,"Window Blinds, Cordless 36 in",2,27.0,4.455
+HD10264,1,2020-10-06,Steven Davis,steven20@homemail.com,"Power Washer, 2000 PSI Electric",1,159.0,13.1175
+HD10265,1,2020-06-26,Daniel White,daniel2@homemail.com,"Cordless Drill, 20V Max",4,99.0,32.67
+HD10265,2,2020-06-26,Daniel White,daniel2@homemail.com,"Screwdriver Set, 6-Piece",1,19.99,1.6492
+HD10265,3,2020-06-26,Daniel White,daniel2@homemail.com,"Ceiling Fan, 44 in White",4,69.0,22.77
+HD10266,1,2020-01-31,Michael White,michael36@homemail.com,"Circular Saw, 7-1/4 in",2,119.0,19.635
+HD10267,1,2020-09-23,Jessica White,jessica48@homemail.com,"Paint Interior, 1 Gallon White",5,32.0,13.2
+HD10267,2,2020-09-23,Jessica White,jessica48@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",4,12.5,4.125
+HD10267,3,2020-09-23,Jessica White,jessica48@homemail.com,"Wood Screws, 1lb Box",1,6.49,0.5354
+HD10267,4,2020-09-23,Jessica White,jessica48@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",2,12.5,2.0625
+HD10268,1,2020-06-10,Donna Wilson,donna90@homemail.com,"PVC Pipe 10ft, 1/2 in",4,5.49,1.8117
+HD10268,2,2020-06-10,Donna Wilson,donna90@homemail.com,"Lumber 2x4x8, Cedar",2,7.5,1.2375
+HD10268,3,2020-06-10,Donna Wilson,donna90@homemail.com,"Sandpaper Pack, Assorted Grit",1,8.99,0.7417
+HD10269,1,2020-03-25,Joseph Thomas,joseph41@homemail.com,"Paint Exterior, 1 Gallon Beige",5,38.0,15.675
+HD10269,2,2020-03-25,Joseph Thomas,joseph41@homemail.com,"Lawn Mower, Cordless Electric",4,349.0,115.17
+HD10269,3,2020-03-25,Joseph Thomas,joseph41@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10269,4,2020-03-25,Joseph Thomas,joseph41@homemail.com,"Screwdriver Set, 6-Piece",5,19.99,8.2459
+HD10270,1,2020-06-16,Michael Williams,michael92@homemail.com,"Bathroom Faucet, Chrome",4,64.0,21.12
+HD10270,2,2020-06-16,Michael Williams,michael92@homemail.com,"Screwdriver Set, 6-Piece",3,19.99,4.9475
+HD10271,1,2020-03-30,James Wilson,james58@homemail.com,"Paint Interior, 1 Gallon Gray",4,32.0,10.56
+HD10271,2,2020-03-30,James Wilson,james58@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",1,12.5,1.0312
+HD10272,1,2020-04-23,Michael Miller,michael52@homemail.com,"Paint Interior, 1 Gallon White",5,32.0,13.2
+HD10272,2,2020-04-23,Michael Miller,michael52@homemail.com,"Lumber 2x4x8, Cedar",1,7.5,0.6188
+HD10272,3,2020-04-23,Michael Miller,michael52@homemail.com,"Lawn Mower, Push Gas",4,299.0,98.67
+HD10273,1,2020-02-17,Donna Hernandez,donna16@homemail.com,"Smoke Detector, Battery Combo",1,22.5,1.8563
+HD10274,1,2020-10-20,Jessica Harris,jessica51@homemail.com,"Cordless Drill, 18V Compact",4,79.0,26.07
+HD10274,2,2020-10-20,Jessica Harris,jessica51@homemail.com,"Garden Hose, 100 ft",3,39.99,9.8975
+HD10274,3,2020-10-20,Jessica Harris,jessica51@homemail.com,"Garden Hose, 100 ft",3,39.99,9.8975
+HD10274,4,2020-10-20,Jessica Harris,jessica51@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",1,15.5,1.2788
+HD10275,1,2020-11-11,Jennifer Perez,jennifer38@homemail.com,"Power Washer, 2000 PSI Electric",5,159.0,65.5875
+HD10275,2,2020-11-11,Jennifer Perez,jennifer38@homemail.com,"Paint Interior, 1 Gallon White",3,32.0,7.92
+HD10275,3,2020-11-11,Jennifer Perez,jennifer38@homemail.com,"Power Washer, 2000 PSI Electric",2,159.0,26.235
+HD10275,4,2020-11-11,Jennifer Perez,jennifer38@homemail.com,"Grill Propane, 4-Burner",2,279.0,46.035
+HD10276,1,2020-10-05,Donna Smith,donna49@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10276,2,2020-10-05,Donna Smith,donna49@homemail.com,"Bathroom Faucet, Chrome",5,64.0,26.4
+HD10276,3,2020-10-05,Donna Smith,donna49@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10277,1,2020-06-12,Lisa Davis,lisa4@homemail.com,"Lumber 2x4x8, Pine",4,4.25,1.4025
+HD10277,2,2020-06-12,Lisa Davis,lisa4@homemail.com,"Sandpaper Pack, Assorted Grit",2,8.99,1.4834
+HD10277,3,2020-06-12,Lisa Davis,lisa4@homemail.com,"Paint Interior, 1 Gallon Gray",2,32.0,5.28
+HD10278,1,2020-05-16,Nancy Harris,nancy8@homemail.com,"Wood Screws, 1lb Box",4,6.49,2.1417
+HD10278,2,2020-05-16,Nancy Harris,nancy8@homemail.com,"Garden Hose, 100 ft",2,39.99,6.5984
+HD10279,1,2020-06-11,Donna Harris,donna90@homemail.com,"Sandpaper Pack, Assorted Grit",1,8.99,0.7417
+HD10279,2,2020-06-11,Donna Harris,donna90@homemail.com,"Bathroom Faucet, Chrome",5,64.0,26.4
+HD10279,3,2020-06-11,Donna Harris,donna90@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10280,1,2020-09-09,Nancy Martinez,nancy23@homemail.com,"Circular Saw, 7-1/4 in",1,119.0,9.8175
+HD10280,2,2020-09-09,Nancy Martinez,nancy23@homemail.com,"Insulation Roll, R-13 15in x 32ft",2,42.0,6.93
+HD10280,3,2020-09-09,Nancy Martinez,nancy23@homemail.com,"Door Lock Set, Keyed Entry",1,34.99,2.8867
+HD10280,4,2020-09-09,Nancy Martinez,nancy23@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",2,24.99,4.1234
+HD10281,1,2020-06-23,Paul Garcia,paul42@homemail.com,"Cordless Drill, 18V Compact",2,79.0,13.035
+HD10282,1,2020-03-13,Steven Brown,steven68@homemail.com,"Lumber 2x4x8, Cedar",3,7.5,1.8563
+HD10282,2,2020-03-13,Steven Brown,steven68@homemail.com,"Mulch, 2 cu ft Bag",5,4.5,1.8563
+HD10282,3,2020-03-13,Steven Brown,steven68@homemail.com,"Screwdriver Set, 6-Piece",3,19.99,4.9475
+HD10283,1,2020-03-21,Sandra Anderson,sandra82@homemail.com,"PVC Pipe 10ft, 1/2 in",2,5.49,0.9059
+HD10283,2,2020-03-21,Sandra Anderson,sandra82@homemail.com,"Caulk Gun Kit, with Sealant",5,11.99,4.9459
+HD10283,3,2020-03-21,Sandra Anderson,sandra82@homemail.com,"Ceiling Fan, 52 in Bronze",5,89.0,36.7125
+HD10283,4,2020-03-21,Sandra Anderson,sandra82@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10284,1,2020-05-30,Michael Garcia,michael94@homemail.com,"Wood Screws, 1lb Box",4,6.49,2.1417
+HD10285,1,2020-10-17,Maria Garcia,maria78@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",2,24.99,4.1234
+HD10285,2,2020-10-17,Maria Garcia,maria78@homemail.com,"Paint Interior, 1 Gallon Gray",4,32.0,10.56
+HD10285,3,2020-10-17,Maria Garcia,maria78@homemail.com,"Lumber 2x4x8, Cedar",2,7.5,1.2375
+HD10286,1,2020-06-12,Patricia Perez,patricia12@homemail.com,"Extension Cord, 50 ft Outdoor",1,29.99,2.4742
+HD10286,2,2020-06-12,Patricia Perez,patricia12@homemail.com,"Ceiling Fan, 44 in White",1,69.0,5.6925
+HD10286,3,2020-06-12,Patricia Perez,patricia12@homemail.com,"Paint Interior, 1 Gallon Gray",1,32.0,2.64
+HD10287,1,2020-08-12,Sandra Anderson,sandra22@homemail.com,"Window Blinds, Cordless 36 in",4,27.0,8.91
+HD10287,2,2020-08-12,Sandra Anderson,sandra22@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10287,3,2020-08-12,Sandra Anderson,sandra22@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10287,4,2020-08-12,Sandra Anderson,sandra22@homemail.com,"Lumber 2x4x8, Cedar",1,7.5,0.6188
+HD10288,1,2020-06-12,John Brown,john10@homemail.com,"Garden Hose, 50 ft",4,24.99,8.2467
+HD10288,2,2020-06-12,John Brown,john10@homemail.com,"Lumber 2x4x8, Cedar",5,7.5,3.0938
+HD10288,3,2020-06-12,John Brown,john10@homemail.com,"Paint Interior, 1 Gallon White",3,32.0,7.92
+HD10289,1,2020-11-10,Karen White,karen4@homemail.com,"Garden Hose, 50 ft",5,24.99,10.3084
+HD10289,2,2020-11-10,Karen White,karen4@homemail.com,"Garden Hose, 50 ft",1,24.99,2.0617
+HD10289,3,2020-11-10,Karen White,karen4@homemail.com,"Lawn Mower, Cordless Electric",2,349.0,57.585
+HD10289,4,2020-11-10,Karen White,karen4@homemail.com,"Caulk Gun Kit, with Sealant",5,11.99,4.9459
+HD10290,1,2020-05-24,Elizabeth Davis,elizabeth13@homemail.com,"Mulch, 2 cu ft Bag",5,4.5,1.8563
+HD10291,1,2020-09-08,Michael Johnson,michael47@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",1,79.0,6.5175
+HD10292,1,2020-12-04,Daniel Lee,daniel62@homemail.com,"Paint Interior, 1 Gallon Gray",1,32.0,2.64
+HD10292,2,2020-12-04,Daniel Lee,daniel62@homemail.com,"Hammer, 16 oz Claw",1,14.99,1.2367
+HD10293,1,2020-02-29,Elizabeth Wilson,elizabeth61@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10293,2,2020-02-29,Elizabeth Wilson,elizabeth61@homemail.com,"Concrete Mix, 60 lb Bag",2,5.85,0.9652
+HD10293,3,2020-02-29,Elizabeth Wilson,elizabeth61@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10293,4,2020-02-29,Elizabeth Wilson,elizabeth61@homemail.com,"Circular Saw, 7-1/4 in",3,119.0,29.4525
+HD10294,1,2020-05-14,Jennifer Rodriguez,jennifer73@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",1,15.5,1.2788
+HD10295,1,2020-06-25,Donna Jackson,donna53@homemail.com,"Caulk Gun Kit, with Sealant",1,11.99,0.9892
+HD10295,2,2020-06-25,Donna Jackson,donna53@homemail.com,"Grill Propane, 4-Burner",4,279.0,92.07
+HD10296,1,2020-12-17,Karen Martin,karen31@homemail.com,"Screwdriver Set, 6-Piece",1,19.99,1.6492
+HD10296,2,2020-12-17,Karen Martin,karen31@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10296,3,2020-12-17,Karen Martin,karen31@homemail.com,"Grill Propane, 4-Burner",5,279.0,115.0875
+HD10296,4,2020-12-17,Karen Martin,karen31@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",2,24.99,4.1234
+HD10297,1,2020-08-17,Patricia Garcia,patricia28@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",1,12.5,1.0312
+HD10297,2,2020-08-17,Patricia Garcia,patricia28@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",2,79.0,13.035
+HD10298,1,2020-11-17,Michael Lee,michael34@homemail.com,"Lumber 2x4x8, Cedar",1,7.5,0.6188
+HD10298,2,2020-11-17,Michael Lee,michael34@homemail.com,"Mulch, 2 cu ft Bag",5,4.5,1.8563
+HD10298,3,2020-11-17,Michael Lee,michael34@homemail.com,"Tool Set, 75-Piece",5,69.0,28.4625
+HD10299,1,2020-01-07,Donna White,donna80@homemail.com,"Paint Exterior, 1 Gallon Beige",4,38.0,12.54
+HD10299,2,2020-01-07,Donna White,donna80@homemail.com,"Wood Screws, 1lb Box",5,6.49,2.6771
+HD10299,3,2020-01-07,Donna White,donna80@homemail.com,"Paint Interior, 1 Gallon Gray",1,32.0,2.64
+HD10299,4,2020-01-07,Donna White,donna80@homemail.com,"Paint Interior, 1 Gallon Gray",3,32.0,7.92
+HD10300,1,2020-06-25,Jessica Rodriguez,jessica50@homemail.com,"Wood Screws, 1lb Box",5,6.49,2.6771
+HD10300,2,2020-06-25,Jessica Rodriguez,jessica50@homemail.com,"Garden Hose, 100 ft",3,39.99,9.8975
+HD10300,3,2020-06-25,Jessica Rodriguez,jessica50@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",5,24.99,10.3084
+HD10300,4,2020-06-25,Jessica Rodriguez,jessica50@homemail.com,"Mulch, 2 cu ft Bag",1,4.5,0.3713
+HD10301,1,2020-06-18,Paul Davis,paul7@homemail.com,"Tool Set, 75-Piece",3,69.0,17.0775
+HD10301,2,2020-06-18,Paul Davis,paul7@homemail.com,"Screwdriver Set, 6-Piece",3,19.99,4.9475
+HD10301,3,2020-06-18,Paul Davis,paul7@homemail.com,"Window Blinds, Cordless 36 in",1,27.0,2.2275
+HD10301,4,2020-06-18,Paul Davis,paul7@homemail.com,"Ceiling Fan, 52 in Bronze",2,89.0,14.685
+HD10302,1,2020-08-14,Steven Hernandez,steven35@homemail.com,"Insulation Roll, R-13 15in x 32ft",1,42.0,3.465
+HD10302,2,2020-08-14,Steven Hernandez,steven35@homemail.com,"Lawn Mower, Cordless Electric",4,349.0,115.17
+HD10302,3,2020-08-14,Steven Hernandez,steven35@homemail.com,"Grill Propane, 4-Burner",3,279.0,69.0525
+HD10302,4,2020-08-14,Steven Hernandez,steven35@homemail.com,"Patio Furniture Set, 4-Piece",2,449.0,74.085
+HD10303,1,2020-12-29,Brian Wilson,brian18@homemail.com,"Garden Hose, 100 ft",2,39.99,6.5984
+HD10304,1,2020-04-12,Maria Davis,maria5@homemail.com,"Lumber 2x4x8, Pine",3,4.25,1.0519
+HD10304,2,2020-04-12,Maria Davis,maria5@homemail.com,"Tool Set, 75-Piece",3,69.0,17.0775
+HD10304,3,2020-04-12,Maria Davis,maria5@homemail.com,"Patio Furniture Set, 4-Piece",4,449.0,148.17
+HD10304,4,2020-04-12,Maria Davis,maria5@homemail.com,"Paint Exterior, 1 Gallon Beige",1,38.0,3.135
+HD10305,1,2020-09-07,Lisa Thomas,lisa23@homemail.com,"Sandpaper Pack, Assorted Grit",5,8.99,3.7084
+HD10305,2,2020-09-07,Lisa Thomas,lisa23@homemail.com,"Garden Hose, 50 ft",3,24.99,6.185
+HD10305,3,2020-09-07,Lisa Thomas,lisa23@homemail.com,"Paint Interior, 1 Gallon White",3,32.0,7.92
+HD10305,4,2020-09-07,Lisa Thomas,lisa23@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10306,1,2020-04-19,Jennifer Perez,jennifer29@homemail.com,"Tool Set, 75-Piece",4,69.0,22.77
+HD10306,2,2020-04-19,Jennifer Perez,jennifer29@homemail.com,"Cordless Drill, 20V Max",4,99.0,32.67
+HD10307,1,2020-11-27,Patricia Lee,patricia2@homemail.com,"Tool Set, 150-Piece",5,129.0,53.2125
+HD10307,2,2020-11-27,Patricia Lee,patricia2@homemail.com,"Screwdriver Set, 6-Piece",3,19.99,4.9475
+HD10308,1,2020-07-11,Susan Thomas,susan33@homemail.com,"Smoke Detector, Battery Combo",3,22.5,5.5688
+HD10308,2,2020-07-11,Susan Thomas,susan33@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",4,24.99,8.2467
+HD10309,1,2020-01-04,Brian Thompson,brian48@homemail.com,"Screwdriver Set, 6-Piece",1,19.99,1.6492
+HD10309,2,2020-01-04,Brian Thompson,brian48@homemail.com,"PVC Pipe 10ft, 3/4 in",3,6.99,1.73
+HD10309,3,2020-01-04,Brian Thompson,brian48@homemail.com,"Tool Set, 75-Piece",3,69.0,17.0775
+HD10310,1,2020-11-29,Elizabeth Miller,elizabeth20@homemail.com,"Lumber 2x4x8, Pine",5,4.25,1.7531
+HD10310,2,2020-11-29,Elizabeth Miller,elizabeth20@homemail.com,"PVC Pipe 10ft, 1/2 in",2,5.49,0.9059
+HD10311,1,2020-12-01,Karen Martinez,karen34@homemail.com,"Mulch, 2 cu ft Bag",4,4.5,1.485
+HD10311,2,2020-12-01,Karen Martinez,karen34@homemail.com,"Sandpaper Pack, Assorted Grit",5,8.99,3.7084
+HD10311,3,2020-12-01,Karen Martinez,karen34@homemail.com,"PVC Pipe 10ft, 3/4 in",2,6.99,1.1534
+HD10311,4,2020-12-01,Karen Martinez,karen34@homemail.com,"Door Lock Set, Keyed Entry",3,34.99,8.66
+HD10312,1,2020-03-28,Betty Jackson,betty24@homemail.com,"Paint Interior, 1 Gallon Gray",4,32.0,10.56
+HD10312,2,2020-03-28,Betty Jackson,betty24@homemail.com,"Tool Set, 150-Piece",5,129.0,53.2125
+HD10312,3,2020-03-28,Betty Jackson,betty24@homemail.com,"Garden Hose, 100 ft",3,39.99,9.8975
+HD10313,1,2020-04-23,Susan Davis,susan96@homemail.com,"Power Washer, 2000 PSI Electric",3,159.0,39.3525
+HD10313,2,2020-04-23,Susan Davis,susan96@homemail.com,"Sandpaper Pack, Assorted Grit",3,8.99,2.225
+HD10313,3,2020-04-23,Susan Davis,susan96@homemail.com,"Paint Exterior, 1 Gallon Beige",4,38.0,12.54
+HD10314,1,2020-11-20,Mark Martin,mark80@homemail.com,"Door Lock Set, Keyed Entry",2,34.99,5.7734
+HD10315,1,2020-12-14,Richard Moore,richard39@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10315,2,2020-12-14,Richard Moore,richard39@homemail.com,"Lawn Mower, Push Gas",3,299.0,74.0025
+HD10315,3,2020-12-14,Richard Moore,richard39@homemail.com,"Wood Screws, 1lb Box",4,6.49,2.1417
+HD10315,4,2020-12-14,Richard Moore,richard39@homemail.com,"Garden Hose, 100 ft",1,39.99,3.2992
+HD10316,1,2020-11-19,Patricia Hernandez,patricia82@homemail.com,"Cordless Drill, 20V Max",4,99.0,32.67
+HD10317,1,2020-03-27,Mark Garcia,mark63@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",5,12.5,5.1562
+HD10318,1,2020-08-07,Richard Anderson,richard62@homemail.com,"Cordless Drill, 20V Max",1,99.0,8.1675
+HD10318,2,2020-08-07,Richard Anderson,richard62@homemail.com,"Kitchen Faucet, Stainless",1,110.0,9.075
+HD10318,3,2020-08-07,Richard Anderson,richard62@homemail.com,"Grill Propane, 4-Burner",2,279.0,46.035
+HD10318,4,2020-08-07,Richard Anderson,richard62@homemail.com,"Cordless Drill, 20V Max",2,99.0,16.335
+HD10319,1,2020-06-25,Elizabeth Jones,elizabeth14@homemail.com,"Patio Furniture Set, 4-Piece",5,449.0,185.2125
+HD10319,2,2020-06-25,Elizabeth Jones,elizabeth14@homemail.com,"Lumber 2x4x8, Cedar",1,7.5,0.6188
+HD10319,3,2020-06-25,Elizabeth Jones,elizabeth14@homemail.com,"Hammer, 16 oz Claw",4,14.99,4.9467
+HD10319,4,2020-06-25,Elizabeth Jones,elizabeth14@homemail.com,"Insulation Roll, R-13 15in x 32ft",5,42.0,17.325
+HD10320,1,2020-12-17,Michael Hernandez,michael63@homemail.com,"Lawn Mower, Push Gas",2,299.0,49.335
+HD10320,2,2020-12-17,Michael Hernandez,michael63@homemail.com,"Mulch, 2 cu ft Bag",1,4.5,0.3713
+HD10320,3,2020-12-17,Michael Hernandez,michael63@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",2,12.5,2.0625
+HD10321,1,2020-10-28,Brian Garcia,brian16@homemail.com,"Circular Saw, 7-1/4 in",4,119.0,39.27
+HD10321,2,2020-10-28,Brian Garcia,brian16@homemail.com,"Tool Set, 150-Piece",5,129.0,53.2125
+HD10321,3,2020-10-28,Brian Garcia,brian16@homemail.com,"Insulation Roll, R-13 15in x 32ft",1,42.0,3.465
+HD10322,1,2020-11-30,James Johnson,james89@homemail.com,"Power Washer, 2000 PSI Electric",4,159.0,52.47
+HD10323,1,2020-10-07,John Taylor,john90@homemail.com,"Lawn Mower, Cordless Electric",1,349.0,28.7925
+HD10323,2,2020-10-07,John Taylor,john90@homemail.com,"Paint Interior, 1 Gallon Gray",5,32.0,13.2
+HD10324,1,2020-11-06,Paul Jones,paul54@homemail.com,"Patio Furniture Set, 4-Piece",5,449.0,185.2125
+HD10325,1,2020-02-28,Donna Brown,donna64@homemail.com,"Insulation Roll, R-13 15in x 32ft",2,42.0,6.93
+HD10325,2,2020-02-28,Donna Brown,donna64@homemail.com,"Grill Propane, 4-Burner",2,279.0,46.035
+HD10326,1,2020-07-28,Elizabeth Garcia,elizabeth6@homemail.com,"Lawn Mower, Cordless Electric",4,349.0,115.17
+HD10326,2,2020-07-28,Elizabeth Garcia,elizabeth6@homemail.com,"Cordless Drill, 20V Max",1,99.0,8.1675
+HD10326,3,2020-07-28,Elizabeth Garcia,elizabeth6@homemail.com,"Paint Exterior, 1 Gallon Beige",5,38.0,15.675
+HD10326,4,2020-07-28,Elizabeth Garcia,elizabeth6@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",1,15.5,1.2788
+HD10327,1,2020-02-08,Sandra Harris,sandra13@homemail.com,"Ceiling Fan, 52 in Bronze",4,89.0,29.37
+HD10327,2,2020-02-08,Sandra Harris,sandra13@homemail.com,"Hammer, 16 oz Claw",3,14.99,3.71
+HD10327,3,2020-02-08,Sandra Harris,sandra13@homemail.com,"Paint Interior, 1 Gallon Gray",2,32.0,5.28
+HD10328,1,2020-05-28,Susan Thompson,susan41@homemail.com,"Paint Exterior, 1 Gallon Beige",1,38.0,3.135
+HD10328,2,2020-05-28,Susan Thompson,susan41@homemail.com,"Circular Saw, 7-1/4 in",1,119.0,9.8175
+HD10328,3,2020-05-28,Susan Thompson,susan41@homemail.com,"Garden Hose, 50 ft",3,24.99,6.185
+HD10328,4,2020-05-28,Susan Thompson,susan41@homemail.com,"Extension Cord, 50 ft Outdoor",5,29.99,12.3709
+HD10329,1,2020-02-17,Susan Hernandez,susan24@homemail.com,"Mulch, 2 cu ft Bag",4,4.5,1.485
+HD10330,1,2020-05-19,Richard White,richard62@homemail.com,"Garden Hose, 50 ft",1,24.99,2.0617
+HD10330,2,2020-05-19,Richard White,richard62@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10330,3,2020-05-19,Richard White,richard62@homemail.com,"Sandpaper Pack, Assorted Grit",4,8.99,2.9667
+HD10330,4,2020-05-19,Richard White,richard62@homemail.com,"Extension Cord, 50 ft Outdoor",2,29.99,4.9483
+HD10331,1,2020-07-02,Lisa Smith,lisa88@homemail.com,"Door Lock Set, Keyed Entry",4,34.99,11.5467
+HD10331,2,2020-07-02,Lisa Smith,lisa88@homemail.com,"Power Washer, 2000 PSI Electric",4,159.0,52.47
+HD10332,1,2020-05-13,Daniel Hernandez,daniel2@homemail.com,"PVC Pipe 10ft, 3/4 in",5,6.99,2.8834
+HD10332,2,2020-05-13,Daniel Hernandez,daniel2@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",1,24.99,2.0617
+HD10333,1,2020-05-07,Karen Lopez,karen85@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",5,15.5,6.3938
+HD10333,2,2020-05-07,Karen Lopez,karen85@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",1,24.99,2.0617
+HD10333,3,2020-05-07,Karen Lopez,karen85@homemail.com,"Garden Hose, 50 ft",5,24.99,10.3084
+HD10333,4,2020-05-07,Karen Lopez,karen85@homemail.com,"Window Blinds, Cordless 36 in",2,27.0,4.455
+HD10334,1,2020-09-08,William Davis,william43@homemail.com,"Lumber 2x4x8, Pine",5,4.25,1.7531
+HD10334,2,2020-09-08,William Davis,william43@homemail.com,"Concrete Mix, 60 lb Bag",4,5.85,1.9305
+HD10334,3,2020-09-08,William Davis,william43@homemail.com,"Paint Interior, 1 Gallon White",4,32.0,10.56
+HD10335,1,2020-10-20,Joseph Williams,joseph64@homemail.com,"PVC Pipe 10ft, 1/2 in",1,5.49,0.4529
+HD10335,2,2020-10-20,Joseph Williams,joseph64@homemail.com,"Cordless Drill, 18V Compact",1,79.0,6.5175
+HD10335,3,2020-10-20,Joseph Williams,joseph64@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10335,4,2020-10-20,Joseph Williams,joseph64@homemail.com,"Paint Interior, 1 Gallon White",5,32.0,13.2
+HD10336,1,2020-11-22,Elizabeth Moore,elizabeth72@homemail.com,"Smoke Detector, Battery Combo",3,22.5,5.5688
+HD10336,2,2020-11-22,Elizabeth Moore,elizabeth72@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10337,1,2020-06-18,Nancy Lee,nancy77@homemail.com,"Kitchen Faucet, Stainless",4,110.0,36.3
+HD10337,2,2020-06-18,Nancy Lee,nancy77@homemail.com,"Ceiling Fan, 52 in Bronze",1,89.0,7.3425
+HD10337,3,2020-06-18,Nancy Lee,nancy77@homemail.com,"Hammer, 16 oz Claw",5,14.99,6.1834
+HD10337,4,2020-06-18,Nancy Lee,nancy77@homemail.com,"Paint Interior, 1 Gallon Gray",1,32.0,2.64
+HD10338,1,2020-09-09,Michael White,michael96@homemail.com,"Paint Interior, 1 Gallon Gray",3,32.0,7.92
+HD10338,2,2020-09-09,Michael White,michael96@homemail.com,"Lawn Mower, Push Gas",1,299.0,24.6675
+HD10338,3,2020-09-09,Michael White,michael96@homemail.com,"Mulch, 2 cu ft Bag",2,4.5,0.7425
+HD10338,4,2020-09-09,Michael White,michael96@homemail.com,"Lawn Mower, Push Gas",3,299.0,74.0025
+HD10339,1,2020-07-31,Maria Perez,maria87@homemail.com,"Extension Cord, 50 ft Outdoor",4,29.99,9.8967
+HD10340,1,2020-09-15,Michael Taylor,michael1@homemail.com,"Caulk Gun Kit, with Sealant",4,11.99,3.9567
+HD10341,1,2020-09-04,Brian Garcia,brian89@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",1,12.5,1.0312
+HD10341,2,2020-09-04,Brian Garcia,brian89@homemail.com,"Insulation Roll, R-13 15in x 32ft",5,42.0,17.325
+HD10342,1,2020-09-15,Richard Anderson,richard78@homemail.com,"Tool Set, 75-Piece",4,69.0,22.77
+HD10342,2,2020-09-15,Richard Anderson,richard78@homemail.com,"Hammer, 16 oz Claw",4,14.99,4.9467
+HD10343,1,2020-03-11,Jessica Lee,jessica90@homemail.com,"Caulk Gun Kit, with Sealant",3,11.99,2.9675
+HD10343,2,2020-03-11,Jessica Lee,jessica90@homemail.com,"Caulk Gun Kit, with Sealant",2,11.99,1.9784
+HD10343,3,2020-03-11,Jessica Lee,jessica90@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",3,24.99,6.185
+HD10344,1,2020-12-10,Michael White,michael84@homemail.com,"Patio Furniture Set, 4-Piece",5,449.0,185.2125
+HD10344,2,2020-12-10,Michael White,michael84@homemail.com,"PVC Pipe 10ft, 1/2 in",1,5.49,0.4529
+HD10345,1,2020-10-14,Karen Martin,karen74@homemail.com,"Storage Shelving, 5-Tier Steel",3,89.0,22.0275
+HD10345,2,2020-10-14,Karen Martin,karen74@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",1,79.0,6.5175
+HD10345,3,2020-10-14,Karen Martin,karen74@homemail.com,"Cordless Drill, 18V Compact",4,79.0,26.07
+HD10345,4,2020-10-14,Karen Martin,karen74@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10346,1,2020-03-23,Elizabeth Thompson,elizabeth33@homemail.com,"Lumber 2x4x8, Pine",3,4.25,1.0519
+HD10346,2,2020-03-23,Elizabeth Thompson,elizabeth33@homemail.com,"Storage Shelving, 5-Tier Steel",1,89.0,7.3425
+HD10347,1,2020-08-19,Linda Lee,linda87@homemail.com,"Caulk Gun Kit, with Sealant",4,11.99,3.9567
+HD10347,2,2020-08-19,Linda Lee,linda87@homemail.com,"Hammer, 16 oz Claw",1,14.99,1.2367
+HD10348,1,2020-07-17,Jessica Thompson,jessica41@homemail.com,"Cordless Drill, 20V Max",3,99.0,24.5025
+HD10349,1,2020-08-14,Jennifer Perez,jennifer91@homemail.com,"Sandpaper Pack, Assorted Grit",5,8.99,3.7084
+HD10349,2,2020-08-14,Jennifer Perez,jennifer91@homemail.com,"Lawn Mower, Push Gas",2,299.0,49.335
+HD10349,3,2020-08-14,Jennifer Perez,jennifer91@homemail.com,"Garden Hose, 100 ft",1,39.99,3.2992
+HD10350,1,2020-03-29,Sandra Moore,sandra16@homemail.com,"Circular Saw, 7-1/4 in",4,119.0,39.27
+HD10350,2,2020-03-29,Sandra Moore,sandra16@homemail.com,"Tool Set, 150-Piece",2,129.0,21.285
+HD10350,3,2020-03-29,Sandra Moore,sandra16@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10350,4,2020-03-29,Sandra Moore,sandra16@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",1,15.5,1.2788
+HD10351,1,2020-06-14,Lisa Johnson,lisa81@homemail.com,"Window Blinds, Cordless 36 in",5,27.0,11.1375
+HD10351,2,2020-06-14,Lisa Johnson,lisa81@homemail.com,"Lumber 2x4x8, Cedar",3,7.5,1.8563
+HD10351,3,2020-06-14,Lisa Johnson,lisa81@homemail.com,"Garden Hose, 100 ft",5,39.99,16.4959
+HD10352,1,2020-09-15,Patricia Anderson,patricia70@homemail.com,"Paint Interior, 1 Gallon White",3,32.0,7.92
+HD10352,2,2020-09-15,Patricia Anderson,patricia70@homemail.com,"Lawn Mower, Cordless Electric",3,349.0,86.3775
+HD10352,3,2020-09-15,Patricia Anderson,patricia70@homemail.com,"Hammer, 16 oz Claw",2,14.99,2.4733
+HD10352,4,2020-09-15,Patricia Anderson,patricia70@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",5,24.99,10.3084
+HD10353,1,2020-10-14,Steven Perez,steven2@homemail.com,"Bathroom Faucet, Chrome",4,64.0,21.12
+HD10354,1,2020-11-24,Lisa Lee,lisa32@homemail.com,"PVC Pipe 10ft, 1/2 in",4,5.49,1.8117
+HD10355,1,2020-02-28,Richard Rodriguez,richard70@homemail.com,"Cordless Drill, 18V Compact",5,79.0,32.5875
+HD10355,2,2020-02-28,Richard Rodriguez,richard70@homemail.com,"Kitchen Faucet, Stainless",5,110.0,45.375
+HD10355,3,2020-02-28,Richard Rodriguez,richard70@homemail.com,"Extension Cord, 50 ft Outdoor",4,29.99,9.8967
+HD10356,1,2020-11-29,David Hernandez,david66@homemail.com,"Paint Interior, 1 Gallon Gray",2,32.0,5.28
+HD10357,1,2020-10-02,Nancy Smith,nancy81@homemail.com,"Lawn Mower, Cordless Electric",2,349.0,57.585
+HD10358,1,2020-08-05,Linda Miller,linda69@homemail.com,"Lumber 2x4x8, Cedar",2,7.5,1.2375
+HD10358,2,2020-08-05,Linda Miller,linda69@homemail.com,"PVC Pipe 10ft, 3/4 in",1,6.99,0.5767
+HD10358,3,2020-08-05,Linda Miller,linda69@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10358,4,2020-08-05,Linda Miller,linda69@homemail.com,"Caulk Gun Kit, with Sealant",1,11.99,0.9892
+HD10359,1,2020-04-26,John Anderson,john50@homemail.com,"Mulch, 2 cu ft Bag",4,4.5,1.485
+HD10359,2,2020-04-26,John Anderson,john50@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10359,3,2020-04-26,John Anderson,john50@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",1,24.99,2.0617
+HD10359,4,2020-04-26,John Anderson,john50@homemail.com,"Sandpaper Pack, Assorted Grit",1,8.99,0.7417
+HD10360,1,2020-02-07,Susan Moore,susan14@homemail.com,"Screwdriver Set, 6-Piece",5,19.99,8.2459
+HD10360,2,2020-02-07,Susan Moore,susan14@homemail.com,"Extension Cord, 50 ft Outdoor",4,29.99,9.8967
+HD10360,3,2020-02-07,Susan Moore,susan14@homemail.com,"Cordless Drill, 18V Compact",4,79.0,26.07
+HD10361,1,2020-04-22,Michael Harris,michael51@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",3,15.5,3.8363
+HD10361,2,2020-04-22,Michael Harris,michael51@homemail.com,"Kitchen Faucet, Stainless",1,110.0,9.075
+HD10361,3,2020-04-22,Michael Harris,michael51@homemail.com,"Caulk Gun Kit, with Sealant",2,11.99,1.9784
+HD10362,1,2020-01-03,Mark Lee,mark51@homemail.com,"Screwdriver Set, 6-Piece",2,19.99,3.2984
+HD10363,1,2020-06-25,David Anderson,david83@homemail.com,"Garden Hose, 50 ft",2,24.99,4.1234
+HD10363,2,2020-06-25,David Anderson,david83@homemail.com,"Tool Set, 150-Piece",2,129.0,21.285
+HD10364,1,2020-12-09,Donna Martin,donna7@homemail.com,"Caulk Gun Kit, with Sealant",1,11.99,0.9892
+HD10364,2,2020-12-09,Donna Martin,donna7@homemail.com,"Lumber 2x4x8, Cedar",3,7.5,1.8563
+HD10364,3,2020-12-09,Donna Martin,donna7@homemail.com,"Sandpaper Pack, Assorted Grit",4,8.99,2.9667
+HD10364,4,2020-12-09,Donna Martin,donna7@homemail.com,"Bathroom Faucet, Chrome",2,64.0,10.56
+HD10365,1,2020-04-30,Linda Martinez,linda80@homemail.com,"Lawn Mower, Push Gas",3,299.0,74.0025
+HD10366,1,2020-06-17,Lisa Thompson,lisa40@homemail.com,"Wood Screws, 1lb Box",5,6.49,2.6771
+HD10366,2,2020-06-17,Lisa Thompson,lisa40@homemail.com,"PVC Pipe 10ft, 1/2 in",4,5.49,1.8117
+HD10367,1,2020-06-09,Jennifer Davis,jennifer92@homemail.com,"Tool Set, 75-Piece",3,69.0,17.0775
+HD10367,2,2020-06-09,Jennifer Davis,jennifer92@homemail.com,"PVC Pipe 10ft, 3/4 in",4,6.99,2.3067
+HD10367,3,2020-06-09,Jennifer Davis,jennifer92@homemail.com,"Bathroom Faucet, Chrome",3,64.0,15.84
+HD10367,4,2020-06-09,Jennifer Davis,jennifer92@homemail.com,"Paint Interior, 1 Gallon Gray",2,32.0,5.28
+HD10368,1,2020-02-11,John Jones,john69@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10368,2,2020-02-11,John Jones,john69@homemail.com,"Cordless Drill, 18V Compact",5,79.0,32.5875
+HD10369,1,2020-10-24,Mark Wilson,mark99@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10369,2,2020-10-24,Mark Wilson,mark99@homemail.com,"Storage Shelving, 5-Tier Steel",4,89.0,29.37
+HD10370,1,2020-03-17,Susan Wilson,susan29@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",4,12.5,4.125
+HD10370,2,2020-03-17,Susan Wilson,susan29@homemail.com,"Paint Interior, 1 Gallon White",4,32.0,10.56
+HD10370,3,2020-03-17,Susan Wilson,susan29@homemail.com,"Cordless Drill, 20V Max",2,99.0,16.335
+HD10371,1,2020-11-10,Betty Garcia,betty97@homemail.com,"Extension Cord, 50 ft Outdoor",2,29.99,4.9483
+HD10371,2,2020-11-10,Betty Garcia,betty97@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10372,1,2020-09-04,Susan Johnson,susan29@homemail.com,"Ceiling Fan, 52 in Bronze",1,89.0,7.3425
+HD10372,2,2020-09-04,Susan Johnson,susan29@homemail.com,"Ceiling Fan, 52 in Bronze",1,89.0,7.3425
+HD10372,3,2020-09-04,Susan Johnson,susan29@homemail.com,"Grill Propane, 4-Burner",3,279.0,69.0525
+HD10372,4,2020-09-04,Susan Johnson,susan29@homemail.com,"Smoke Detector, Battery Combo",1,22.5,1.8563
+HD10373,1,2020-11-28,William Brown,william91@homemail.com,"Tool Set, 150-Piece",5,129.0,53.2125
+HD10373,2,2020-11-28,William Brown,william91@homemail.com,"Garden Hose, 100 ft",4,39.99,13.1967
+HD10373,3,2020-11-28,William Brown,william91@homemail.com,"Kitchen Faucet, Stainless",5,110.0,45.375
+HD10374,1,2020-02-09,Brian Rodriguez,brian49@homemail.com,"Grill Propane, 4-Burner",4,279.0,92.07
+HD10374,2,2020-02-09,Brian Rodriguez,brian49@homemail.com,"Bathroom Faucet, Chrome",4,64.0,21.12
+HD10375,1,2020-11-05,James Moore,james18@homemail.com,"Garden Hose, 50 ft",2,24.99,4.1234
+HD10375,2,2020-11-05,James Moore,james18@homemail.com,"Tool Set, 75-Piece",2,69.0,11.385
+HD10375,3,2020-11-05,James Moore,james18@homemail.com,"Garden Hose, 50 ft",3,24.99,6.185
+HD10375,4,2020-11-05,James Moore,james18@homemail.com,"Paint Exterior, 1 Gallon Beige",2,38.0,6.27
+HD10376,1,2020-06-18,Sandra Brown,sandra62@homemail.com,"Door Lock Set, Keyed Entry",2,34.99,5.7734
+HD10376,2,2020-06-18,Sandra Brown,sandra62@homemail.com,"Power Washer, 2000 PSI Electric",1,159.0,13.1175
+HD10376,3,2020-06-18,Sandra Brown,sandra62@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",5,12.5,5.1562
+HD10376,4,2020-06-18,Sandra Brown,sandra62@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",5,12.5,5.1562
+HD10377,1,2020-10-20,Michael Johnson,michael22@homemail.com,"Garden Hose, 100 ft",5,39.99,16.4959
+HD10377,2,2020-10-20,Michael Johnson,michael22@homemail.com,"Insulation Roll, R-13 15in x 32ft",5,42.0,17.325
+HD10377,3,2020-10-20,Michael Johnson,michael22@homemail.com,"Hammer, 16 oz Claw",1,14.99,1.2367
+HD10378,1,2020-11-06,Karen Taylor,karen22@homemail.com,"Power Washer, 2000 PSI Electric",5,159.0,65.5875
+HD10378,2,2020-11-06,Karen Taylor,karen22@homemail.com,"Sandpaper Pack, Assorted Grit",2,8.99,1.4834
+HD10379,1,2020-09-18,John Garcia,john93@homemail.com,"Smoke Detector, Battery Combo",5,22.5,9.2812
+HD10379,2,2020-09-18,John Garcia,john93@homemail.com,"Ceiling Fan, 52 in Bronze",4,89.0,29.37
+HD10379,3,2020-09-18,John Garcia,john93@homemail.com,"Paint Interior, 1 Gallon Gray",1,32.0,2.64
+HD10380,1,2020-09-15,Betty Anderson,betty20@homemail.com,"Garden Hose, 100 ft",4,39.99,13.1967
+HD10381,1,2020-11-03,Maria Jackson,maria65@homemail.com,"Paint Interior, 1 Gallon White",4,32.0,10.56
+HD10382,1,2020-11-04,Nancy Smith,nancy87@homemail.com,"Grill Propane, 4-Burner",4,279.0,92.07
+HD10382,2,2020-11-04,Nancy Smith,nancy87@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10382,3,2020-11-04,Nancy Smith,nancy87@homemail.com,"Door Lock Set, Keyed Entry",4,34.99,11.5467
+HD10382,4,2020-11-04,Nancy Smith,nancy87@homemail.com,"Wood Screws, 1lb Box",1,6.49,0.5354
+HD10383,1,2020-05-10,Karen Davis,karen11@homemail.com,"Insulation Roll, R-13 15in x 32ft",5,42.0,17.325
+HD10383,2,2020-05-10,Karen Davis,karen11@homemail.com,"Lawn Mower, Push Gas",1,299.0,24.6675
+HD10383,3,2020-05-10,Karen Davis,karen11@homemail.com,"Cordless Drill, 20V Max",5,99.0,40.8375
+HD10384,1,2020-09-23,James Wilson,james84@homemail.com,"PVC Pipe 10ft, 1/2 in",4,5.49,1.8117
+HD10384,2,2020-09-23,James Wilson,james84@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",4,15.5,5.115
+HD10385,1,2020-05-09,John Jackson,john55@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",3,24.99,6.185
+HD10385,2,2020-05-09,John Jackson,john55@homemail.com,"Mulch, 2 cu ft Bag",2,4.5,0.7425
+HD10385,3,2020-05-09,John Jackson,john55@homemail.com,"Caulk Gun Kit, with Sealant",4,11.99,3.9567
+HD10386,1,2020-10-13,Nancy Taylor,nancy33@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10386,2,2020-10-13,Nancy Taylor,nancy33@homemail.com,"Mulch, 2 cu ft Bag",2,4.5,0.7425
+HD10386,3,2020-10-13,Nancy Taylor,nancy33@homemail.com,"Paint Exterior, 1 Gallon Beige",2,38.0,6.27
+HD10387,1,2020-12-24,Patricia Brown,patricia28@homemail.com,"PVC Pipe 10ft, 3/4 in",5,6.99,2.8834
+HD10387,2,2020-12-24,Patricia Brown,patricia28@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10387,3,2020-12-24,Patricia Brown,patricia28@homemail.com,"Cordless Drill, 20V Max",1,99.0,8.1675
+HD10387,4,2020-12-24,Patricia Brown,patricia28@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10388,1,2020-02-02,John Davis,john48@homemail.com,"Insulation Roll, R-13 15in x 32ft",1,42.0,3.465
+HD10389,1,2020-07-24,Lisa Perez,lisa67@homemail.com,"Insulation Roll, R-13 15in x 32ft",1,42.0,3.465
+HD10389,2,2020-07-24,Lisa Perez,lisa67@homemail.com,"Garden Hose, 100 ft",4,39.99,13.1967
+HD10389,3,2020-07-24,Lisa Perez,lisa67@homemail.com,"Lawn Mower, Push Gas",5,299.0,123.3375
+HD10390,1,2020-01-18,Donna Lee,donna66@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",2,24.99,4.1234
+HD10390,2,2020-01-18,Donna Lee,donna66@homemail.com,"Kitchen Faucet, Stainless",2,110.0,18.15
+HD10391,1,2020-03-21,Robert Rodriguez,robert52@homemail.com,"Mulch, 2 cu ft Bag",4,4.5,1.485
+HD10391,2,2020-03-21,Robert Rodriguez,robert52@homemail.com,"Grill Propane, 4-Burner",1,279.0,23.0175
+HD10391,3,2020-03-21,Robert Rodriguez,robert52@homemail.com,"Lumber 2x4x8, Cedar",1,7.5,0.6188
+HD10392,1,2020-10-13,Mark Lopez,mark45@homemail.com,"Ceiling Fan, 52 in Bronze",5,89.0,36.7125
+HD10392,2,2020-10-13,Mark Lopez,mark45@homemail.com,"Smoke Detector, Battery Combo",4,22.5,7.425
+HD10392,3,2020-10-13,Mark Lopez,mark45@homemail.com,"Tool Set, 150-Piece",2,129.0,21.285
+HD10393,1,2020-02-24,Nancy Williams,nancy65@homemail.com,"PVC Pipe 10ft, 3/4 in",1,6.99,0.5767
+HD10393,2,2020-02-24,Nancy Williams,nancy65@homemail.com,"Tool Set, 150-Piece",5,129.0,53.2125
+HD10393,3,2020-02-24,Nancy Williams,nancy65@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10394,1,2020-07-12,Mark Taylor,mark99@homemail.com,"PVC Pipe 10ft, 3/4 in",4,6.99,2.3067
+HD10394,2,2020-07-12,Mark Taylor,mark99@homemail.com,"Sandpaper Pack, Assorted Grit",1,8.99,0.7417
+HD10395,1,2020-05-12,Robert Wilson,robert82@homemail.com,"Ceiling Fan, 52 in Bronze",3,89.0,22.0275
+HD10395,2,2020-05-12,Robert Wilson,robert82@homemail.com,"Bathroom Faucet, Chrome",5,64.0,26.4
+HD10396,1,2020-12-24,John Davis,john37@homemail.com,"Mulch, 2 cu ft Bag",3,4.5,1.1138
+HD10397,1,2020-04-01,Karen Hernandez,karen46@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10397,2,2020-04-01,Karen Hernandez,karen46@homemail.com,"Lawn Mower, Push Gas",4,299.0,98.67
+HD10398,1,2020-04-30,Sandra Davis,sandra34@homemail.com,"Ceiling Fan, 52 in Bronze",2,89.0,14.685
+HD10398,2,2020-04-30,Sandra Davis,sandra34@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",3,24.99,6.185
+HD10399,1,2020-02-24,Linda Williams,linda87@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",1,24.99,2.0617
+HD10399,2,2020-02-24,Linda Williams,linda87@homemail.com,"Storage Shelving, 5-Tier Steel",1,89.0,7.3425
+HD10399,3,2020-02-24,Linda Williams,linda87@homemail.com,"Kitchen Faucet, Stainless",5,110.0,45.375
+HD10399,4,2020-02-24,Linda Williams,linda87@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10400,1,2020-09-18,John Wilson,john29@homemail.com,"Lumber 2x4x8, Pine",5,4.25,1.7531
+HD10400,2,2020-09-18,John Wilson,john29@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10401,1,2020-06-26,Richard Thompson,richard23@homemail.com,"Paint Exterior, 1 Gallon Beige",5,38.0,15.675
+HD10401,2,2020-06-26,Richard Thompson,richard23@homemail.com,"Cordless Drill, 20V Max",1,99.0,8.1675
+HD10401,3,2020-06-26,Richard Thompson,richard23@homemail.com,"Concrete Mix, 60 lb Bag",5,5.85,2.4131
+HD10401,4,2020-06-26,Richard Thompson,richard23@homemail.com,"Kitchen Faucet, Stainless",5,110.0,45.375
+HD10402,1,2020-04-05,Nancy Rodriguez,nancy31@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10402,2,2020-04-05,Nancy Rodriguez,nancy31@homemail.com,"Garden Hose, 100 ft",4,39.99,13.1967
+HD10402,3,2020-04-05,Nancy Rodriguez,nancy31@homemail.com,"Power Washer, 2000 PSI Electric",3,159.0,39.3525
+HD10403,1,2020-07-24,John Thomas,john24@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10403,2,2020-07-24,John Thomas,john24@homemail.com,"Tool Set, 75-Piece",2,69.0,11.385
+HD10404,1,2020-07-14,David Jones,david95@homemail.com,"Door Lock Set, Keyed Entry",1,34.99,2.8867
+HD10404,2,2020-07-14,David Jones,david95@homemail.com,"Window Blinds, Cordless 36 in",2,27.0,4.455
+HD10405,1,2020-11-18,Brian Jackson,brian93@homemail.com,"Window Blinds, Cordless 36 in",3,27.0,6.6825
+HD10405,2,2020-11-18,Brian Jackson,brian93@homemail.com,"Wood Screws, 1lb Box",1,6.49,0.5354
+HD10405,3,2020-11-18,Brian Jackson,brian93@homemail.com,"Garden Hose, 50 ft",1,24.99,2.0617
+HD10406,1,2020-05-10,Karen Perez,karen13@homemail.com,"PVC Pipe 10ft, 3/4 in",3,6.99,1.73
+HD10406,2,2020-05-10,Karen Perez,karen13@homemail.com,"Caulk Gun Kit, with Sealant",5,11.99,4.9459
+HD10406,3,2020-05-10,Karen Perez,karen13@homemail.com,"Tool Set, 150-Piece",3,129.0,31.9275
+HD10406,4,2020-05-10,Karen Perez,karen13@homemail.com,"Paint Exterior, 1 Gallon Beige",3,38.0,9.405
+HD10407,1,2020-11-06,David Martin,david74@homemail.com,"Hammer, 16 oz Claw",3,14.99,3.71
+HD10407,2,2020-11-06,David Martin,david74@homemail.com,"Patio Furniture Set, 4-Piece",4,449.0,148.17
+HD10408,1,2020-08-16,Robert Wilson,robert79@homemail.com,"Smoke Detector, Battery Combo",2,22.5,3.7125
+HD10408,2,2020-08-16,Robert Wilson,robert79@homemail.com,"PVC Pipe 10ft, 3/4 in",4,6.99,2.3067
+HD10408,3,2020-08-16,Robert Wilson,robert79@homemail.com,"Wood Screws, 1lb Box",4,6.49,2.1417
+HD10409,1,2020-02-06,Robert Garcia,robert44@homemail.com,"PVC Pipe 10ft, 1/2 in",3,5.49,1.3588
+HD10409,2,2020-02-06,Robert Garcia,robert44@homemail.com,"Tool Set, 75-Piece",5,69.0,28.4625
+HD10410,1,2020-05-18,Joseph Lopez,joseph96@homemail.com,"Power Washer, 2000 PSI Electric",2,159.0,26.235
+HD10410,2,2020-05-18,Joseph Lopez,joseph96@homemail.com,"Cordless Drill, 18V Compact",2,79.0,13.035
+HD10410,3,2020-05-18,Joseph Lopez,joseph96@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10410,4,2020-05-18,Joseph Lopez,joseph96@homemail.com,"Mulch, 2 cu ft Bag",1,4.5,0.3713
+HD10411,1,2020-08-30,Nancy Johnson,nancy4@homemail.com,"Grill Propane, 4-Burner",1,279.0,23.0175
+HD10411,2,2020-08-30,Nancy Johnson,nancy4@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",2,24.99,4.1234
+HD10411,3,2020-08-30,Nancy Johnson,nancy4@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10411,4,2020-08-30,Nancy Johnson,nancy4@homemail.com,"Hammer, 16 oz Claw",4,14.99,4.9467
+HD10412,1,2020-03-08,Brian Garcia,brian4@homemail.com,"Bathroom Faucet, Chrome",3,64.0,15.84
+HD10413,1,2020-08-27,Nancy Rodriguez,nancy71@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",5,12.5,5.1562
+HD10413,2,2020-08-27,Nancy Rodriguez,nancy71@homemail.com,"Insulation Roll, R-13 15in x 32ft",4,42.0,13.86
+HD10413,3,2020-08-27,Nancy Rodriguez,nancy71@homemail.com,"Wood Screws, 1lb Box",4,6.49,2.1417
+HD10413,4,2020-08-27,Nancy Rodriguez,nancy71@homemail.com,"Storage Shelving, 5-Tier Steel",3,89.0,22.0275
+HD10414,1,2020-09-03,Nancy Davis,nancy12@homemail.com,"Screwdriver Set, 6-Piece",3,19.99,4.9475
+HD10414,2,2020-09-03,Nancy Davis,nancy12@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",3,15.5,3.8363
+HD10414,3,2020-09-03,Nancy Davis,nancy12@homemail.com,"Grill Propane, 4-Burner",2,279.0,46.035
+HD10414,4,2020-09-03,,nancy12@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10415,1,2020-09-08,Steven Taylor,steven39@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",3,79.0,19.5525
+HD10416,1,2020-01-04,Nancy Lopez,nancy25@homemail.com,"Caulk Gun Kit, with Sealant",4,11.99,3.9567
+HD10416,2,2020-01-04,Nancy Lopez,nancy25@homemail.com,"Garden Hose, 50 ft",4,24.99,8.2467
+HD10416,3,2020-01-04,Nancy Lopez,nancy25@homemail.com,"Ceiling Fan, 52 in Bronze",3,89.0,22.0275
+HD10416,4,2020-01-04,Nancy Lopez,nancy25@homemail.com,"Ceiling Fan, 44 in White",5,69.0,28.4625
+HD10417,1,2020-11-09,Donna White,donna88@homemail.com,"Hammer, 16 oz Claw",5,14.99,6.1834
+HD10417,2,2020-11-09,Donna White,donna88@homemail.com,"Power Washer, 2000 PSI Electric",2,159.0,26.235
+HD10417,3,2020-11-09,Donna White,donna88@homemail.com,"Garden Hose, 100 ft",2,39.99,6.5984
+HD10418,1,2020-11-22,Joseph Lee,joseph58@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",4,24.99,8.2467
+HD10418,2,2020-11-22,Joseph Lee,joseph58@homemail.com,"Cordless Drill, 18V Compact",2,79.0,13.035
+HD10418,3,2020-11-22,Joseph Lee,joseph58@homemail.com,"Storage Shelving, 5-Tier Steel",1,89.0,7.3425
+HD10419,1,2020-02-22,Elizabeth Rodriguez,elizabeth17@homemail.com,"Cordless Drill, 20V Max",2,99.0,16.335
+HD10419,2,2020-02-22,Elizabeth Rodriguez,elizabeth17@homemail.com,"Cordless Drill, 20V Max",4,99.0,32.67
+HD10419,3,2020-02-22,Elizabeth Rodriguez,elizabeth17@homemail.com,"Power Washer, 2000 PSI Electric",3,159.0,39.3525
+HD10419,4,2020-02-22,Elizabeth Rodriguez,elizabeth17@homemail.com,"Window Blinds, Cordless 36 in",3,27.0,6.6825
+HD10420,1,2020-01-17,William Williams,william97@homemail.com,"Lumber 2x4x8, Pine",3,4.25,1.0519
+HD10420,2,2020-01-17,William Williams,william97@homemail.com,"Lumber 2x4x8, Cedar",5,7.5,3.0938
+HD10421,1,2020-04-08,John Wilson,john2@homemail.com,"Ceiling Fan, 44 in White",4,69.0,22.77
+HD10422,1,2020-08-14,Jennifer Harris,jennifer5@homemail.com,"Smoke Detector, Battery Combo",1,22.5,1.8563
+HD10422,2,2020-08-14,Jennifer Harris,jennifer5@homemail.com,"Lawn Mower, Cordless Electric",4,349.0,115.17
+HD10423,1,2020-06-08,William Garcia,william81@homemail.com,"Caulk Gun Kit, with Sealant",5,11.99,4.9459
+HD10424,1,2020-09-03,Daniel Martinez,daniel26@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10424,2,2020-09-03,Daniel Martinez,daniel26@homemail.com,"Ceiling Fan, 44 in White",4,69.0,22.77
+HD10424,3,2020-09-03,Daniel Martinez,daniel26@homemail.com,"Garden Hose, 50 ft",3,24.99,6.185
+HD10425,1,2020-07-21,Donna Davis,donna2@homemail.com,"Sandpaper Pack, Assorted Grit",4,8.99,2.9667
+HD10426,1,2020-03-20,Susan Williams,susan32@homemail.com,"Window Blinds, Cordless 36 in",1,27.0,2.2275
+HD10426,2,2020-03-20,Susan Williams,susan32@homemail.com,"PVC Pipe 10ft, 3/4 in",1,6.99,0.5767
+HD10427,1,2020-11-26,Michael White,michael69@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",4,12.5,4.125
+HD10428,1,2020-10-12,Donna Perez,donna97@homemail.com,"Extension Cord, 50 ft Outdoor",2,29.99,4.9483
+HD10428,2,2020-10-12,Donna Perez,donna97@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10428,3,2020-10-12,Donna Perez,donna97@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10429,1,2020-08-12,Nancy Martinez,nancy70@homemail.com,"Lawn Mower, Push Gas",5,299.0,123.3375
+HD10429,2,2020-08-12,Nancy Martinez,nancy70@homemail.com,"Bathroom Faucet, Chrome",3,64.0,15.84
+HD10429,3,2020-08-12,Nancy Martinez,nancy70@homemail.com,"Tool Set, 75-Piece",5,69.0,28.4625
+HD10429,4,2020-08-12,Nancy Martinez,nancy70@homemail.com,"Caulk Gun Kit, with Sealant",2,11.99,1.9784
+HD10430,1,2020-03-20,Joseph Martinez,joseph34@homemail.com,"Smoke Detector, Battery Combo",1,22.5,1.8563
+HD10430,2,2020-03-20,Joseph Martinez,joseph34@homemail.com,"Patio Furniture Set, 4-Piece",4,449.0,148.17
+HD10430,3,2020-03-20,Joseph Martinez,joseph34@homemail.com,"Cordless Drill, 18V Compact",5,79.0,32.5875
+HD10431,1,2020-11-13,Jennifer Hernandez,jennifer93@homemail.com,"Storage Shelving, 5-Tier Steel",4,89.0,29.37
+HD10432,1,2020-12-15,Karen Jackson,karen20@homemail.com,"PVC Pipe 10ft, 1/2 in",4,5.49,1.8117
+HD10432,2,2020-12-15,Karen Jackson,karen20@homemail.com,"Paint Exterior, 1 Gallon Beige",1,38.0,3.135
+HD10432,3,2020-12-15,Karen Jackson,karen20@homemail.com,"Lumber 2x4x8, Cedar",1,7.5,0.6188
+HD10433,1,2020-03-07,Patricia Johnson,patricia26@homemail.com,"Window Blinds, Cordless 36 in",2,27.0,4.455
+HD10434,1,2020-10-19,Daniel Wilson,daniel85@homemail.com,"Grill Propane, 4-Burner",5,279.0,115.0875
+HD10434,2,2020-10-19,Daniel Wilson,daniel85@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10434,3,2020-10-19,Daniel Wilson,daniel85@homemail.com,"Insulation Roll, R-13 15in x 32ft",1,42.0,3.465
+HD10434,4,2020-10-19,Daniel Wilson,daniel85@homemail.com,"Lawn Mower, Cordless Electric",4,349.0,115.17
+HD10435,1,2020-02-10,Joseph Perez,joseph8@homemail.com,"Caulk Gun Kit, with Sealant",4,11.99,3.9567
+HD10435,2,2020-02-10,Joseph Perez,joseph8@homemail.com,"Lumber 2x4x8, Pine",5,4.25,1.7531
+HD10435,3,2020-02-10,Joseph Perez,joseph8@homemail.com,"Circular Saw, 7-1/4 in",1,119.0,9.8175
+HD10436,1,2020-02-09,David Moore,david13@homemail.com,"Ceiling Fan, 52 in Bronze",5,89.0,36.7125
+HD10437,1,2020-04-08,Brian Thompson,brian32@homemail.com,"Caulk Gun Kit, with Sealant",5,11.99,4.9459
+HD10437,2,2020-04-08,Brian Thompson,brian32@homemail.com,"Paint Interior, 1 Gallon Gray",5,32.0,13.2
+HD10438,1,2020-08-22,Paul Thompson,paul55@homemail.com,"Garden Hose, 50 ft",2,24.99,4.1234
+HD10439,1,2020-09-15,William Thompson,william21@homemail.com,"Bathroom Faucet, Chrome",3,64.0,15.84
+HD10439,2,2020-09-15,William Thompson,william21@homemail.com,"PVC Pipe 10ft, 1/2 in",3,5.49,1.3588
+HD10439,3,2020-09-15,William Thompson,william21@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",3,79.0,19.5525
+HD10439,4,2020-09-15,William Thompson,william21@homemail.com,"Wood Screws, 1lb Box",5,6.49,2.6771
+HD10440,1,2020-10-08,,sandra47@homemail.com,"Extension Cord, 50 ft Outdoor",4,29.99,9.8967
+HD10440,2,2020-10-08,Sandra Rodriguez,sandra47@homemail.com,"Circular Saw, 7-1/4 in",3,119.0,29.4525
+HD10440,3,2020-10-08,Sandra Rodriguez,sandra47@homemail.com,"Grill Propane, 4-Burner",2,279.0,46.035
+HD10440,4,2020-10-08,Sandra Rodriguez,sandra47@homemail.com,"Screwdriver Set, 6-Piece",1,19.99,1.6492
+HD10441,1,2020-04-23,David Hernandez,david3@homemail.com,"Caulk Gun Kit, with Sealant",5,11.99,4.9459
+HD10441,2,2020-04-23,David Hernandez,david3@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10441,3,2020-04-23,David Hernandez,david3@homemail.com,"Smoke Detector, Battery Combo",3,22.5,5.5688
+HD10442,1,2020-05-15,Susan Martin,susan32@homemail.com,"Tool Set, 150-Piece",3,129.0,31.9275
+HD10442,2,2020-05-15,Susan Martin,susan32@homemail.com,"Mulch, 2 cu ft Bag",5,4.5,1.8563
+HD10443,1,2020-02-09,Sandra Hernandez,sandra62@homemail.com,"Window Blinds, Cordless 36 in",5,27.0,11.1375
+HD10443,2,2020-02-09,Sandra Hernandez,sandra62@homemail.com,"Paint Interior, 1 Gallon Gray",5,32.0,13.2
+HD10444,1,2020-01-20,Sandra Martin,sandra49@homemail.com,"Lumber 2x4x8, Pine",3,4.25,1.0519
+HD10445,1,2020-08-10,Jessica Brown,jessica99@homemail.com,"Insulation Roll, R-13 15in x 32ft",1,42.0,3.465
+HD10445,2,2020-08-10,Jessica Brown,jessica99@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10446,1,2020-01-22,William Jackson,william73@homemail.com,"PVC Pipe 10ft, 1/2 in",5,5.49,2.2646
+HD10446,2,2020-01-22,William Jackson,william73@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",1,15.5,1.2788
+HD10447,1,2020-07-20,Joseph Lee,joseph74@homemail.com,"Ceiling Fan, 52 in Bronze",4,89.0,29.37
+HD10448,1,2020-07-20,Michael Jones,michael44@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10449,1,2020-10-07,Richard Rodriguez,richard11@homemail.com,"Patio Furniture Set, 4-Piece",4,449.0,148.17
+HD10449,2,2020-10-07,Richard Rodriguez,richard11@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",2,12.5,2.0625
+HD10449,3,2020-10-07,Richard Rodriguez,richard11@homemail.com,"Lawn Mower, Push Gas",4,299.0,98.67
+HD10449,4,2020-10-07,Richard Rodriguez,richard11@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10450,1,2020-09-25,Jennifer Davis,jennifer10@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",3,79.0,19.5525
+HD10450,2,2020-09-25,Jennifer Davis,jennifer10@homemail.com,"Wood Screws, 1lb Box",1,6.49,0.5354
+HD10450,3,2020-09-25,Jennifer Davis,jennifer10@homemail.com,"Power Washer, 2000 PSI Electric",4,159.0,52.47
+HD10451,1,2020-04-07,William Lopez,william77@homemail.com,"Screwdriver Set, 6-Piece",2,19.99,3.2984
+HD10452,1,2020-11-11,Donna Thomas,donna80@homemail.com,"Extension Cord, 50 ft Outdoor",1,29.99,2.4742
+HD10452,2,2020-11-11,Donna Thomas,donna80@homemail.com,"Ceiling Fan, 52 in Bronze",2,89.0,14.685
+HD10453,1,2020-03-20,Steven Harris,steven11@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10454,1,2020-03-16,Elizabeth Smith,elizabeth44@homemail.com,"Screwdriver Set, 6-Piece",4,19.99,6.5967
+HD10455,1,2020-06-18,David Harris,david69@homemail.com,"Lawn Mower, Cordless Electric",5,349.0,143.9625
+HD10455,2,2020-06-18,David Harris,david69@homemail.com,"Tool Set, 150-Piece",5,129.0,53.2125
+HD10456,1,2020-03-13,Paul White,paul86@homemail.com,"Concrete Mix, 60 lb Bag",5,5.85,2.4131
+HD10457,1,2020-09-26,Maria Rodriguez,maria22@homemail.com,"Hammer, 16 oz Claw",2,14.99,2.4733
+HD10458,1,2020-11-12,John Johnson,john60@homemail.com,"Lumber 2x4x8, Cedar",4,7.5,2.475
+HD10459,1,2020-12-05,Betty Lopez,betty14@homemail.com,"Hammer, 16 oz Claw",4,14.99,4.9467
+HD10460,1,2020-07-13,Brian White,brian13@homemail.com,"Window Blinds, Cordless 36 in",5,27.0,11.1375
+HD10460,2,2020-07-13,Brian White,brian13@homemail.com,"Garden Hose, 100 ft",2,39.99,6.5984
+HD10460,3,2020-07-13,Brian White,brian13@homemail.com,"Smoke Detector, Battery Combo",5,22.5,9.2812
+HD10461,1,2020-01-12,Maria Davis,maria68@homemail.com,"PVC Pipe 10ft, 3/4 in",4,6.99,2.3067
+HD10461,2,2020-01-12,Maria Davis,maria68@homemail.com,"Garden Hose, 50 ft",1,24.99,2.0617
+HD10461,3,2020-01-12,Maria Davis,maria68@homemail.com,"Bathroom Faucet, Chrome",3,64.0,15.84
+HD10462,1,2020-04-30,Brian Rodriguez,brian8@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10462,2,2020-04-30,Brian Rodriguez,brian8@homemail.com,"Tool Set, 75-Piece",2,69.0,11.385
+HD10462,3,2020-04-30,Brian Rodriguez,brian8@homemail.com,"Mulch, 2 cu ft Bag",2,4.5,0.7425
+HD10463,1,2020-07-14,Brian Thompson,brian79@homemail.com,"Power Washer, 2000 PSI Electric",2,159.0,26.235
+HD10463,2,2020-07-14,Brian Thompson,brian79@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",3,79.0,19.5525
+HD10464,1,2020-06-17,Joseph Jackson,joseph17@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",5,12.5,5.1562
+HD10464,2,2020-06-17,Joseph Jackson,joseph17@homemail.com,"Lawn Mower, Push Gas",2,299.0,49.335
+HD10465,1,2020-12-27,Brian Jones,brian56@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10465,2,2020-12-27,Brian Jones,brian56@homemail.com,"Caulk Gun Kit, with Sealant",5,11.99,4.9459
+HD10466,1,2020-03-01,Patricia Hernandez,patricia19@homemail.com,"PVC Pipe 10ft, 1/2 in",4,5.49,1.8117
+HD10467,1,2020-06-04,Joseph Harris,joseph82@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",2,15.5,2.5575
+HD10467,2,2020-06-04,Joseph Harris,joseph82@homemail.com,"Garden Hose, 100 ft",1,39.99,3.2992
+HD10467,3,2020-06-04,Joseph Harris,joseph82@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",5,24.99,10.3084
+HD10468,1,2020-10-17,Lisa Davis,lisa77@homemail.com,"Ceiling Fan, 52 in Bronze",1,89.0,7.3425
+HD10468,2,2020-10-17,Lisa Davis,lisa77@homemail.com,"Door Lock Set, Keyed Entry",2,34.99,5.7734
+HD10469,1,2020-11-05,Karen White,karen84@homemail.com,"Garden Hose, 100 ft",4,39.99,13.1967
+HD10469,2,2020-11-05,Karen White,karen84@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",2,12.5,2.0625
+HD10469,3,2020-11-05,Karen White,karen84@homemail.com,"Circular Saw, 7-1/4 in",4,119.0,39.27
+HD10470,1,2020-01-08,John Anderson,john29@homemail.com,"Lawn Mower, Cordless Electric",1,349.0,28.7925
+HD10470,2,2020-01-08,John Anderson,john29@homemail.com,"Extension Cord, 50 ft Outdoor",5,29.99,12.3709
+HD10471,1,2020-06-15,Joseph Davis,joseph55@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10471,2,2020-06-15,Joseph Davis,joseph55@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10471,3,2020-06-15,Joseph Davis,joseph55@homemail.com,"Wood Screws, 1lb Box",5,6.49,2.6771
+HD10471,4,2020-06-15,Joseph Davis,joseph55@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10472,1,2020-08-21,Maria Davis,maria67@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10472,2,2020-08-21,Maria Davis,maria67@homemail.com,"Lumber 2x4x8, Pine",2,4.25,0.7013
+HD10472,3,2020-08-21,Maria Davis,maria67@homemail.com,"Mulch, 2 cu ft Bag",3,4.5,1.1138
+HD10472,4,2020-08-21,Maria Davis,maria67@homemail.com,"Hammer, 16 oz Claw",4,14.99,4.9467
+HD10473,1,2020-05-30,Lisa Johnson,lisa89@homemail.com,"Smoke Detector, Battery Combo",4,22.5,7.425
+HD10473,2,2020-05-30,Lisa Johnson,lisa89@homemail.com,"Patio Furniture Set, 4-Piece",1,449.0,37.0425
+HD10474,1,2020-10-26,Paul Jackson,paul18@homemail.com,"Power Washer, 2000 PSI Electric",3,159.0,39.3525
+HD10474,2,2020-10-26,Paul Jackson,paul18@homemail.com,"Garden Hose, 100 ft",4,39.99,13.1967
+HD10474,3,2020-10-26,Paul Jackson,paul18@homemail.com,"Lawn Mower, Push Gas",4,299.0,98.67
+HD10474,4,2020-10-26,Paul Jackson,paul18@homemail.com,"PVC Pipe 10ft, 1/2 in",2,5.49,0.9059
+HD10475,1,2020-03-04,Robert Brown,robert91@homemail.com,"Kitchen Faucet, Stainless",1,110.0,9.075
+HD10475,2,2020-03-04,Robert Brown,robert91@homemail.com,"Concrete Mix, 60 lb Bag",5,5.85,2.4131
+HD10475,3,2020-03-04,Robert Brown,robert91@homemail.com,"Garden Hose, 50 ft",4,24.99,8.2467
+HD10475,4,2020-03-04,Robert Brown,robert91@homemail.com,"Circular Saw, 7-1/4 in",2,119.0,19.635
+HD10476,1,2020-10-16,Betty Jones,betty21@homemail.com,"Garden Hose, 100 ft",1,39.99,3.2992
+HD10476,2,2020-10-16,Betty Jones,betty21@homemail.com,"Screwdriver Set, 6-Piece",4,19.99,6.5967
+HD10477,1,2020-04-02,Linda Jones,linda26@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",3,24.99,6.185
+HD10478,1,2020-09-11,Karen Jackson,karen1@homemail.com,"Ceiling Fan, 44 in White",2,69.0,11.385
+HD10478,2,2020-09-11,Karen Jackson,karen1@homemail.com,"Door Lock Set, Keyed Entry",4,34.99,11.5467
+HD10478,3,2020-09-11,Karen Jackson,karen1@homemail.com,"Paint Interior, 1 Gallon White",5,32.0,13.2
+HD10478,4,2020-09-11,Karen Jackson,karen1@homemail.com,"Ceiling Fan, 44 in White",5,69.0,28.4625
+HD10479,1,2020-11-17,Nancy Miller,nancy7@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",1,15.5,1.2788
+HD10479,2,2020-11-17,Nancy Miller,nancy7@homemail.com,"Circular Saw, 7-1/4 in",2,119.0,19.635
+HD10480,1,2020-12-07,Mark Lee,mark39@homemail.com,"Paint Interior, 1 Gallon White",1,32.0,2.64
+HD10480,2,2020-12-07,Mark Lee,mark39@homemail.com,"Garden Hose, 100 ft",2,39.99,6.5984
+HD10480,3,2020-12-07,Mark Lee,mark39@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",5,24.99,10.3084
+HD10481,1,2020-10-14,Patricia Thomas,patricia96@homemail.com,"Circular Saw, 7-1/4 in",1,119.0,9.8175
+HD10481,2,2020-10-14,Patricia Thomas,patricia96@homemail.com,"PVC Pipe 10ft, 1/2 in",3,5.49,1.3588
+HD10481,3,2020-10-14,Patricia Thomas,patricia96@homemail.com,"Lumber 2x4x8, Cedar",4,7.5,2.475
+HD10482,1,2020-02-03,Elizabeth Taylor,elizabeth18@homemail.com,"Tool Set, 75-Piece",3,69.0,17.0775
+HD10483,1,2020-09-25,David White,david27@homemail.com,"Paint Interior, 1 Gallon Gray",5,32.0,13.2
+HD10484,1,2020-11-18,Brian Williams,brian62@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",5,79.0,32.5875
+HD10484,2,2020-11-18,Brian Williams,brian62@homemail.com,"Tool Set, 150-Piece",5,129.0,53.2125
+HD10484,3,2020-11-18,Brian Williams,brian62@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",3,24.99,6.185
+HD10485,1,2020-11-10,Mark Taylor,mark67@homemail.com,"Window Blinds, Cordless 36 in",2,27.0,4.455
+HD10485,2,2020-11-10,Mark Taylor,mark67@homemail.com,"Ceiling Fan, 52 in Bronze",3,89.0,22.0275
+HD10485,3,2020-11-10,Mark Taylor,mark67@homemail.com,"Cordless Drill, 20V Max",1,99.0,8.1675
+HD10485,4,2020-11-10,Mark Taylor,mark67@homemail.com,"Paint Exterior, 1 Gallon Beige",2,38.0,6.27
+HD10486,1,2020-07-31,Jessica Johnson,jessica43@homemail.com,"Caulk Gun Kit, with Sealant",2,11.99,1.9784
+HD10486,2,2020-07-31,Jessica Johnson,jessica43@homemail.com,"Lawn Mower, Push Gas",3,299.0,74.0025
+HD10486,3,2020-07-31,Jessica Johnson,jessica43@homemail.com,"Lumber 2x4x8, Cedar",3,7.5,1.8563
+HD10487,1,2020-10-08,William Smith,william15@homemail.com,"PVC Pipe 10ft, 3/4 in",4,6.99,2.3067
+HD10487,2,2020-10-08,William Smith,william15@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",1,24.99,2.0617
+HD10487,3,2020-10-08,William Smith,william15@homemail.com,"Lawn Mower, Push Gas",3,299.0,74.0025
+HD10488,1,2020-12-10,Karen Taylor,karen5@homemail.com,"Door Lock Set, Keyed Entry",2,34.99,5.7734
+HD10488,2,2020-12-10,Karen Taylor,karen5@homemail.com,"Storage Shelving, 5-Tier Steel",3,89.0,22.0275
+HD10489,1,2020-07-30,Sandra Johnson,sandra67@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10489,2,2020-07-30,Sandra Johnson,sandra67@homemail.com,"Cordless Drill, 18V Compact",2,79.0,13.035
+HD10489,3,2020-07-30,Sandra Johnson,sandra67@homemail.com,"PVC Pipe 10ft, 3/4 in",3,6.99,1.73
+HD10490,1,2020-03-17,John Smith,john44@homemail.com,"Storage Shelving, 5-Tier Steel",2,89.0,14.685
+HD10490,2,2020-03-17,John Smith,john44@homemail.com,"Concrete Mix, 60 lb Bag",2,5.85,0.9652
+HD10490,3,2020-03-17,John Smith,john44@homemail.com,"Screwdriver Set, 6-Piece",3,19.99,4.9475
+HD10490,4,2020-03-17,John Smith,john44@homemail.com,"Tool Set, 75-Piece",4,69.0,22.77
+HD10491,1,2020-05-01,Susan Thomas,susan39@homemail.com,"Grill Propane, 4-Burner",3,279.0,69.0525
+HD10491,2,2020-05-01,Susan Thomas,susan39@homemail.com,"Kitchen Faucet, Stainless",1,110.0,9.075
+HD10492,1,2020-02-17,Joseph Moore,joseph4@homemail.com,"Patio Furniture Set, 4-Piece",2,449.0,74.085
+HD10492,2,2020-02-17,Joseph Moore,joseph4@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10492,3,2020-02-17,Joseph Moore,joseph4@homemail.com,"PVC Pipe 10ft, 1/2 in",2,5.49,0.9059
+HD10492,4,2020-02-17,Joseph Moore,joseph4@homemail.com,"Paint Interior, 1 Gallon Gray",5,32.0,13.2
+HD10493,1,2020-03-08,David Harris,david5@homemail.com,"Concrete Mix, 60 lb Bag",5,5.85,2.4131
+HD10493,2,2020-03-08,David Harris,david5@homemail.com,"Screwdriver Set, 6-Piece",1,19.99,1.6492
+HD10493,3,2020-03-08,David Harris,david5@homemail.com,"Insulation Roll, R-13 15in x 32ft",1,42.0,3.465
+HD10493,4,2020-03-08,David Harris,david5@homemail.com,"Circular Saw, 7-1/4 in",1,119.0,9.8175
+HD10494,1,2020-12-03,Sandra Martinez,sandra3@homemail.com,"Lawn Mower, Cordless Electric",3,349.0,86.3775
+HD10494,2,2020-12-03,Sandra Martinez,sandra3@homemail.com,"Hammer, 16 oz Claw",3,14.99,3.71
+HD10494,3,2020-12-03,Sandra Martinez,sandra3@homemail.com,"Extension Cord, 50 ft Outdoor",1,29.99,2.4742
+HD10495,1,2020-03-21,John Brown,john2@homemail.com,"Lawn Mower, Cordless Electric",5,349.0,143.9625
+HD10496,1,2020-06-12,John Jones,john91@homemail.com,"Wood Screws, 1lb Box",2,6.49,1.0709
+HD10496,2,2020-06-12,John Jones,john91@homemail.com,"Screwdriver Set, 6-Piece",5,19.99,8.2459
+HD10496,3,2020-06-12,John Jones,john91@homemail.com,"Storage Shelving, 5-Tier Steel",4,89.0,29.37
+HD10497,1,2020-01-15,Karen Thompson,karen7@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10498,1,2020-07-19,Patricia White,patricia77@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",3,24.99,6.185
+HD10498,2,2020-07-19,Patricia White,patricia77@homemail.com,"Lawn Mower, Push Gas",5,299.0,123.3375
+HD10498,3,2020-07-19,Patricia White,patricia77@homemail.com,"Smoke Detector, Battery Combo",5,22.5,9.2812
+HD10498,4,2020-07-19,Patricia White,patricia77@homemail.com,"Smoke Detector, Battery Combo",1,22.5,1.8563
+HD10499,1,2020-12-16,Daniel White,daniel99@homemail.com,"Door Lock Set, Keyed Entry",2,34.99,5.7734
+HD10499,2,2020-12-16,Daniel White,daniel99@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",5,15.5,6.3938
+HD10499,3,2020-12-16,Daniel White,daniel99@homemail.com,"Kitchen Faucet, Stainless",4,110.0,36.3
+HD10499,4,2020-12-16,Daniel White,daniel99@homemail.com,"PVC Pipe 10ft, 3/4 in",3,6.99,1.73
+HD10500,1,2020-01-16,Robert Taylor,robert15@homemail.com,"Door Lock Set, Keyed Entry",4,34.99,11.5467
+HD10500,2,2020-01-16,Robert Taylor,robert15@homemail.com,"Hammer, 16 oz Claw",3,14.99,3.71
+HD10500,3,2020-01-16,Robert Taylor,robert15@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",5,12.5,5.1562
+HD10501,1,2020-12-31,Donna Brown,donna42@homemail.com,"Screwdriver Set, 6-Piece",5,19.99,8.2459
+HD10502,1,2020-10-29,Jessica Davis,jessica80@homemail.com,"Caulk Gun Kit, with Sealant",2,11.99,1.9784
+HD10502,2,2020-10-29,Jessica Davis,jessica80@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10503,1,2020-12-21,Mark Anderson,mark56@homemail.com,"Storage Shelving, 5-Tier Steel",2,89.0,14.685
+HD10503,2,2020-12-21,Mark Anderson,mark56@homemail.com,"Lumber 2x4x8, Cedar",5,7.5,3.0938
+HD10503,3,2020-12-21,Mark Anderson,mark56@homemail.com,"Paint Exterior, 1 Gallon Beige",5,38.0,15.675
+HD10504,1,2020-06-15,Nancy Brown,nancy57@homemail.com,"Screwdriver Set, 6-Piece",4,19.99,6.5967
+HD10504,2,2020-06-15,Nancy Brown,nancy57@homemail.com,"Paint Interior, 1 Gallon Gray",5,32.0,13.2
+HD10505,1,2020-07-13,William Taylor,william83@homemail.com,"Paint Interior, 1 Gallon White",2,32.0,5.28
+HD10506,1,2020-10-24,Steven Perez,steven1@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",4,15.5,5.115
+HD10506,2,2020-10-24,Steven Perez,steven1@homemail.com,"Concrete Mix, 60 lb Bag",5,5.85,2.4131
+HD10507,1,2020-04-10,David Thompson,david41@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10507,2,2020-04-10,David Thompson,david41@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",3,79.0,19.5525
+HD10507,3,2020-04-10,David Thompson,david41@homemail.com,"Sandpaper Pack, Assorted Grit",1,8.99,0.7417
+HD10508,1,2020-09-18,Richard Jones,richard38@homemail.com,"Kitchen Faucet, Stainless",5,110.0,45.375
+HD10509,1,2020-01-01,Paul Jackson,paul46@homemail.com,"Hammer, 16 oz Claw",1,14.99,1.2367
+HD10510,1,2020-12-25,Mark Wilson,mark81@homemail.com,"Concrete Mix, 60 lb Bag",4,5.85,1.9305
+HD10510,2,2020-12-25,Mark Wilson,mark81@homemail.com,"Storage Shelving, 5-Tier Steel",2,89.0,14.685
+HD10510,3,2020-12-25,Mark Wilson,mark81@homemail.com,"Door Lock Set, Keyed Entry",2,34.99,5.7734
+HD10511,1,2020-07-15,Susan Anderson,susan20@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",2,12.5,2.0625
+HD10511,2,2020-07-15,Susan Anderson,susan20@homemail.com,"Cordless Drill, 18V Compact",2,79.0,13.035
+HD10511,3,2020-07-15,Susan Anderson,susan20@homemail.com,"Window Blinds, Cordless 36 in",4,27.0,8.91
+HD10512,1,2020-03-10,Robert Jones,robert83@homemail.com,"Smoke Detector, Battery Combo",5,22.5,9.2812
+HD10512,2,2020-03-10,Robert Jones,robert83@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",2,24.99,4.1234
+HD10512,3,2020-03-10,Robert Jones,robert83@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",5,79.0,32.5875
+HD10512,4,2020-03-10,Robert Jones,robert83@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10513,1,2020-08-05,Lisa Smith,lisa74@homemail.com,"Ceiling Fan, 44 in White",5,69.0,28.4625
+HD10513,2,2020-08-05,Lisa Smith,lisa74@homemail.com,"Storage Shelving, 5-Tier Steel",5,89.0,36.7125
+HD10513,3,2020-08-05,Lisa Smith,lisa74@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10513,4,2020-08-05,Lisa Smith,lisa74@homemail.com,"Kitchen Faucet, Stainless",1,110.0,9.075
+HD10514,1,2020-12-19,Robert Jones,robert94@homemail.com,"Smoke Detector, Battery Combo",5,22.5,9.2812
+HD10514,2,2020-12-19,Robert Jones,robert94@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",1,24.99,2.0617
+HD10514,3,2020-12-19,Robert Jones,robert94@homemail.com,"Lumber 2x4x8, Cedar",5,7.5,3.0938
+HD10515,1,2020-06-08,Lisa Johnson,lisa44@homemail.com,"Door Lock Set, Keyed Entry",4,34.99,11.5467
+HD10516,1,2020-08-28,Mark Harris,mark43@homemail.com,"Bathroom Faucet, Chrome",3,64.0,15.84
+HD10516,2,2020-08-28,Mark Harris,mark43@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10516,3,2020-08-28,Mark Harris,mark43@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10516,4,2020-08-28,Mark Harris,mark43@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10517,1,2020-01-27,Betty Martinez,betty95@homemail.com,"Hammer, 16 oz Claw",4,14.99,4.9467
+HD10518,1,2020-09-15,Robert Rodriguez,robert33@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",3,24.99,6.185
+HD10518,2,2020-09-15,Robert Rodriguez,robert33@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10519,1,2020-11-05,Patricia Martin,patricia95@homemail.com,"Extension Cord, 50 ft Outdoor",3,29.99,7.4225
+HD10519,2,2020-11-05,Patricia Martin,patricia95@homemail.com,"Tool Set, 150-Piece",2,129.0,21.285
+HD10520,1,2020-09-27,Maria Hernandez,maria11@homemail.com,"Insulation Roll, R-13 15in x 32ft",2,42.0,6.93
+HD10520,2,2020-09-27,Maria Hernandez,maria11@homemail.com,"Power Washer, 2000 PSI Electric",4,159.0,52.47
+HD10521,1,2020-08-13,Sandra Perez,sandra22@homemail.com,"Wood Screws, 1lb Box",3,6.49,1.6063
+HD10521,2,2020-08-13,Sandra Perez,sandra22@homemail.com,"Tool Set, 150-Piece",1,129.0,10.6425
+HD10522,1,2020-08-25,Richard Taylor,richard39@homemail.com,"Storage Shelving, 5-Tier Steel",2,89.0,14.685
+HD10522,2,2020-08-25,Richard Taylor,richard39@homemail.com,"Concrete Mix, 60 lb Bag",4,5.85,1.9305
+HD10522,3,2020-08-25,Richard Taylor,richard39@homemail.com,"Grill Propane, 4-Burner",4,279.0,92.07
+HD10522,4,2020-08-25,Richard Taylor,richard39@homemail.com,"Extension Cord, 50 ft Outdoor",4,29.99,9.8967
+HD10523,1,2020-09-28,Betty Johnson,betty13@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",5,79.0,32.5875
+HD10523,2,2020-09-28,Betty Johnson,betty13@homemail.com,"Tool Set, 75-Piece",3,69.0,17.0775
+HD10523,3,2020-09-28,Betty Johnson,betty13@homemail.com,"Paint Interior, 1 Gallon Gray",3,32.0,7.92
+HD10524,1,2020-07-19,Joseph Thompson,joseph96@homemail.com,"Sandpaper Pack, Assorted Grit",2,8.99,1.4834
+HD10524,2,2020-07-19,Joseph Thompson,joseph96@homemail.com,"Garden Hose, 100 ft",3,39.99,9.8975
+HD10525,1,2020-12-10,James Williams,james2@homemail.com,"Paint Interior, 1 Gallon Gray",5,32.0,13.2
+HD10525,2,2020-12-10,James Williams,james2@homemail.com,"Extension Cord, 50 ft Outdoor",3,29.99,7.4225
+HD10525,3,2020-12-10,James Williams,james2@homemail.com,"Hammer, 16 oz Claw",3,14.99,3.71
+HD10525,4,2020-12-10,James Williams,james2@homemail.com,"Cordless Drill, 18V Compact",5,79.0,32.5875
+HD10526,1,2020-10-31,Betty Miller,betty77@homemail.com,"Paint Exterior, 1 Gallon Beige",1,38.0,3.135
+HD10527,1,2020-03-07,Richard Thompson,richard98@homemail.com,"Paint Exterior, 1 Gallon Beige",2,38.0,6.27
+HD10527,2,2020-03-07,Richard Thompson,richard98@homemail.com,"Smoke Detector, Battery Combo",1,22.5,1.8563
+HD10528,1,2020-05-21,Steven Anderson,steven89@homemail.com,"Tool Set, 150-Piece",2,129.0,21.285
+HD10528,2,2020-05-21,Steven Anderson,steven89@homemail.com,"Tool Set, 75-Piece",1,69.0,5.6925
+HD10528,3,2020-05-21,Steven Anderson,steven89@homemail.com,"PVC Pipe 10ft, 3/4 in",1,6.99,0.5767
+HD10529,1,2020-05-15,Patricia Thomas,patricia9@homemail.com,"Lawn Mower, Push Gas",5,299.0,123.3375
+HD10529,2,2020-05-15,Patricia Thomas,patricia9@homemail.com,"Window Blinds, Cordless 36 in",1,27.0,2.2275
+HD10529,3,2020-05-15,Patricia Thomas,patricia9@homemail.com,"Shop Vacuum, 6 Gallon Wet/Dry",2,79.0,13.035
+HD10529,4,2020-05-15,Patricia Thomas,patricia9@homemail.com,"Paint Interior, 1 Gallon Gray",4,32.0,10.56
+HD10530,1,2020-02-22,Maria Williams,maria10@homemail.com,"Extension Cord, 50 ft Outdoor",1,29.99,2.4742
+HD10530,2,2020-02-22,Maria Williams,maria10@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",1,15.5,1.2788
+HD10530,3,2020-02-22,Maria Williams,maria10@homemail.com,"Concrete Mix, 60 lb Bag",3,5.85,1.4479
+HD10531,1,2020-06-17,Richard Martin,richard1@homemail.com,"Door Lock Set, Keyed Entry",4,34.99,11.5467
+HD10531,2,2020-06-17,Richard Martin,richard1@homemail.com,"Lumber 2x4x8, Cedar",5,7.5,3.0938
+HD10531,3,2020-06-17,Richard Martin,richard1@homemail.com,"Concrete Mix, 60 lb Bag",4,5.85,1.9305
+HD10531,4,2020-06-17,Richard Martin,richard1@homemail.com,"Storage Shelving, 5-Tier Steel",3,89.0,22.0275
+HD10532,1,2020-06-04,Richard Johnson,richard81@homemail.com,"Kitchen Faucet, Stainless",5,110.0,45.375
+HD10533,1,2020-06-23,Robert Thomas,robert98@homemail.com,"Lawn Mower, Push Gas",2,299.0,49.335
+HD10533,2,2020-06-23,Robert Thomas,robert98@homemail.com,"Concrete Mix, 60 lb Bag",2,5.85,0.9652
+HD10533,3,2020-06-23,Robert Thomas,robert98@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10534,1,2020-07-02,Karen Williams,karen81@homemail.com,"Lawn Mower, Push Gas",2,299.0,49.335
+HD10534,2,2020-07-02,Karen Williams,karen81@homemail.com,"Cordless Drill, 18V Compact",5,79.0,32.5875
+HD10534,3,2020-07-02,Karen Williams,karen81@homemail.com,"Concrete Mix, 60 lb Bag",1,5.85,0.4826
+HD10534,4,2020-07-02,Karen Williams,karen81@homemail.com,"Screwdriver Set, 6-Piece",4,19.99,6.5967
+HD10535,1,2020-08-18,James Johnson,james44@homemail.com,"PVC Pipe 10ft, 3/4 in",1,6.99,0.5767
+HD10536,1,2020-04-18,Donna Perez,donna86@homemail.com,"Storage Shelving, 5-Tier Steel",2,89.0,14.685
+HD10536,2,2020-04-18,Donna Perez,donna86@homemail.com,"Ceiling Fan, 52 in Bronze",1,89.0,7.3425
+HD10536,3,2020-04-18,Donna Perez,donna86@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",4,15.5,5.115
+HD10536,4,2020-04-18,Donna Perez,donna86@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10537,1,2020-12-25,Daniel Jones,daniel2@homemail.com,"Lumber 2x4x8, Pine",3,4.25,1.0519
+HD10537,2,2020-12-25,Daniel Jones,daniel2@homemail.com,"Paint Interior, 1 Gallon Gray",4,32.0,10.56
+HD10538,1,2020-10-29,Robert Brown,robert15@homemail.com,"Insulation Roll, R-13 15in x 32ft",5,42.0,17.325
+HD10538,2,2020-10-29,Robert Brown,robert15@homemail.com,"Lawn Mower, Push Gas",4,299.0,98.67
+HD10538,3,2020-10-29,Robert Brown,robert15@homemail.com,"Mulch, 2 cu ft Bag",3,4.5,1.1138
+HD10538,4,2020-10-29,Robert Brown,robert15@homemail.com,"Wood Screws, 1lb Box",5,6.49,2.6771
+HD10539,1,2020-04-19,Steven Johnson,steven76@homemail.com,"PVC Pipe 10ft, 3/4 in",1,6.99,0.5767
+HD10539,2,2020-04-19,Steven Johnson,steven76@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",4,15.5,5.115
+HD10540,1,2020-07-08,Nancy Garcia,nancy57@homemail.com,"Sandpaper Pack, Assorted Grit",1,8.99,0.7417
+HD10540,2,2020-07-08,Nancy Garcia,nancy57@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",4,24.99,8.2467
+HD10541,1,2020-01-09,Karen Williams,karen1@homemail.com,"Garden Hose, 100 ft",1,39.99,3.2992
+HD10542,1,2020-10-30,Elizabeth Anderson,elizabeth89@homemail.com,"LED Light Bulb, 60W Equiv 4-Pack",2,12.5,2.0625
+HD10542,2,2020-10-30,Elizabeth Anderson,elizabeth89@homemail.com,"Tool Set, 75-Piece",5,69.0,28.4625
+HD10542,3,2020-10-30,Elizabeth Anderson,elizabeth89@homemail.com,"Ceiling Fan, 44 in White",2,69.0,11.385
+HD10542,4,2020-10-30,Elizabeth Anderson,elizabeth89@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10543,1,2020-09-12,,lisa81@homemail.com,"Bathroom Faucet, Chrome",4,64.0,21.12
+HD10543,2,2020-09-12,Lisa Williams,lisa81@homemail.com,"Ceiling Fan, 44 in White",2,69.0,11.385
+HD10543,3,2020-09-12,Lisa Williams,lisa81@homemail.com,"Grill Propane, 4-Burner",1,279.0,23.0175
+HD10544,1,2020-10-03,Brian Davis,brian60@homemail.com,"Tool Set, 75-Piece",1,69.0,5.6925
+HD10544,2,2020-10-03,Brian Davis,brian60@homemail.com,"LED Light Bulb, 100W Equiv 4-Pack",4,15.5,5.115
+HD10545,1,2020-03-22,Betty Johnson,betty7@homemail.com,"Hammer, 16 oz Claw",2,14.99,2.4733
+HD10545,2,2020-03-22,Betty Johnson,betty7@homemail.com,"PVC Pipe 10ft, 3/4 in",5,6.99,2.8834
+HD10545,3,2020-03-22,Betty Johnson,betty7@homemail.com,"Smoke Detector, Battery Combo",1,22.5,1.8563
+HD10546,1,2020-01-27,Nancy Garcia,nancy21@homemail.com,"Window Blinds, Cordless 36 in",5,27.0,11.1375
+HD10547,1,2020-04-30,Sandra Thomas,sandra76@homemail.com,"Power Washer, 2000 PSI Electric",2,159.0,26.235
+HD10547,2,2020-04-30,Sandra Thomas,sandra76@homemail.com,"PVC Pipe 10ft, 1/2 in",2,5.49,0.9059
+HD10547,3,2020-04-30,Sandra Thomas,sandra76@homemail.com,"PVC Pipe 10ft, 1/2 in",2,5.49,0.9059
+HD10548,1,2020-07-30,David Wilson,david29@homemail.com,"Door Lock Set, Keyed Entry",5,34.99,14.4334
+HD10549,1,2020-08-11,Michael Miller,michael79@homemail.com,"Garden Hose, 100 ft",4,39.99,13.1967
+HD10549,2,2020-08-11,Michael Miller,michael79@homemail.com,"Smoke Detector, Battery Combo",2,22.5,3.7125
+HD10549,3,2020-08-11,Michael Miller,michael79@homemail.com,"Tool Set, 75-Piece",2,69.0,11.385
+HD10549,4,2020-08-11,Michael Miller,michael79@homemail.com,"Circular Saw, 7-1/4 in",5,119.0,49.0875
+HD10550,1,2020-03-10,Linda Thomas,linda59@homemail.com,"Garden Hose, 50 ft",3,24.99,6.185
+HD10550,2,2020-03-10,Linda Thomas,linda59@homemail.com,"Hammer, 16 oz Claw",5,14.99,6.1834
+HD10550,3,2020-03-10,Linda Thomas,linda59@homemail.com,"Air Filter HVAC, 16x20x1 4-Pack",2,24.99,4.1234
+HD10550,4,2020-03-10,Linda Thomas,linda59@homemail.com,"Caulk Gun Kit, with Sealant",2,11.99,1.9784
