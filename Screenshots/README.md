@@ -47,8 +47,11 @@ captured at each phase of the build.
 | `gold-dimproduct-preview.png` <img width="2780" height="1295" alt="image" src="https://github.com/user-attachments/assets/b952b2f1-69f8-46c5-b203-c73bd57aebd9" />
 <img width="2922" height="1520" alt="image" src="https://github.com/user-attachments/assets/9169f0d2-44fd-4504-aab5-7920d78534a2" />
 | Product dimension preview — ItemName and ItemInfo split from combined "Name, Variant" string |
-| `gold-factsales-preview.png` | Fact table preview — CustomerID and ItemID populated as integers, confirming dimension joins resolved correctly |
-| `gold-all-tables.png` | Lakehouse Explorer showing all five Delta tables: sales_silver + four gold dimension/fact tables |
+| `gold-factsales-preview.png` <img width="3560" height="1722" alt="image" src="https://github.com/user-attachments/assets/704c5bc5-e539-4bf4-93ad-c47f444bb089" />
+| Fact table preview — CustomerID and ItemID populated as integers, confirming dimension joins resolved correctly |
+| `gold-all-tables.png`<img width="592" height="1550" alt="image" src="https://github.com/user-attachments/assets/7574d141-a0c9-474b-a633-0fa23e2f6154" />
+
+ | Lakehouse Explorer showing all five Delta tables: sales_silver + four gold dimension/fact tables |
 
 ---
 
