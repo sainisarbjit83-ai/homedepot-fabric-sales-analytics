@@ -59,8 +59,10 @@ captured at each phase of the build.
 
 | File | Description |
 |---|---|
-| `semantic-model-relationships.png` | Star schema diagram — factsales_gold at center, three dimensions connected via one-to-many single-direction relationships |
-| `measures-table.png` | Measures_table showing all 10 DAX measures — foundation measures + time intelligence (YoY, YTD, Rolling Average) |
+| `semantic-model-relationships.png` <img width="2462" height="1697" alt="image" src="https://github.com/user-attachments/assets/9c0588c7-8835-4a5c-bedd-9ca5aaad677a" />
+| Star schema diagram — factsales_gold at center, three dimensions connected via one-to-many single-direction relationships |
+| `measures-table.png`<img width="3837" height="1597" alt="image" src="https://github.com/user-attachments/assets/174c061b-c84f-4d60-b421-df32cce1c8b1" />
+ | Measures_table showing all 10 DAX measures — foundation measures + time intelligence (YoY, YTD, Rolling Average) |
 
 ---
 
