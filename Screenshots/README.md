@@ -29,7 +29,8 @@ captured at each phase of the build.
  | MERGE upsert pattern — only new rows inserted, existing rows preserved, pipeline reruns are safe |
 | `silver-row-count.png` <img width="2942" height="640" alt="image" src="https://github.com/user-attachments/assets/9108c706-d97c-4694-abb5-36d8a4aa8f5a" />
 | Post-merge validation showing 2,278 rows — confirms 654 + 762 + 862 rows loaded correctly |
-| `silver-table-explorer.png` | Lakehouse Explorer showing sales_silver Delta table with all 13 columns |
+| `silver-table-explorer.png` <img width="2550" height="1275" alt="image" src="https://github.com/user-attachments/assets/fb271bfb-7b0b-4bcf-a4a5-a5eb26a9c5d6" />
+| Lakehouse Explorer showing sales_silver Delta table with all 13 columns |
 
 ---
 
@@ -37,9 +38,15 @@ captured at each phase of the build.
 
 | File | Description |
 |---|---|
-| `gold-dimdate-preview.png` | Date dimension preview — distinct dates with Day, Month, Year, mmmyyyy, yyyymm columns extracted |
-| `gold-dimcustomer-preview.png` | Customer dimension preview — First/Last name split, surrogate CustomerID assigned via monotonically_increasing_id() |
-| `gold-dimproduct-preview.png` | Product dimension preview — ItemName and ItemInfo split from combined "Name, Variant" string |
+| `gold-dimdate-preview.png`<img width="3690" height="1492" alt="image" src="https://github.com/user-attachments/assets/89a5bc47-290f-4a18-b7d1-f0592df11a63" />
+
+| Date dimension preview — distinct dates with Day, Month, Year, mmmyyyy, yyyymm columns extracted |<img width="3785" height="1757" alt="image" src="https://github.com/user-attachments/assets/086671ec-1bb2-4db0-b1a2-3ecfcc9d130e" />
+
+| `gold-dimcustomer-preview.png` <img width="2067" height="1552" alt="image" src="https://github.com/user-attachments/assets/94a9d13f-44a9-4094-aa8c-0c416e63ce2b" />
+| Customer dimension preview — First/Last name split, surrogate CustomerID assigned via monotonically_increasing_id() |
+| `gold-dimproduct-preview.png` <img width="2780" height="1295" alt="image" src="https://github.com/user-attachments/assets/b952b2f1-69f8-46c5-b203-c73bd57aebd9" />
+<img width="2922" height="1520" alt="image" src="https://github.com/user-attachments/assets/9169f0d2-44fd-4504-aab5-7920d78534a2" />
+| Product dimension preview — ItemName and ItemInfo split from combined "Name, Variant" string |
 | `gold-factsales-preview.png` | Fact table preview — CustomerID and ItemID populated as integers, confirming dimension joins resolved correctly |
 | `gold-all-tables.png` | Lakehouse Explorer showing all five Delta tables: sales_silver + four gold dimension/fact tables |
 
