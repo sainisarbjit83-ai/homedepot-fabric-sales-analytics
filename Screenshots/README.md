@@ -21,9 +21,14 @@ captured at each phase of the build.
 |---|---|
 | `silver-schema-cell.png<img width="3830" height="1757" alt="image" src="https://github.com/user-attachments/assets/89316715-0f63-4b5a-88fc-bd3877cd6fd6" />
 ` | Explicit StructType schema definition — prevents silent type-inference errors on CSV load |
-| `silver-audit-columns-cell.png` | Audit columns added: FileName (lineage), IsFlagged (business rule), CreatedTS/ModifiedTS (load timestamps) |
-| `silver-merge-cell.png` | MERGE upsert pattern — only new rows inserted, existing rows preserved, pipeline reruns are safe |
-| `silver-row-count.png` | Post-merge validation showing 2,278 rows — confirms 654 + 762 + 862 rows loaded correctly |
+| `silver-audit-columns-cell.png`<img width="3575" height="1500" alt="image" src="https://github.com/user-attachments/assets/c32bfebd-230f-42ab-b5ac-209528e38f77" />
+
+ | Audit columns added: FileName (lineage), IsFlagged (business rule), CreatedTS/ModifiedTS (load timestamps) |
+| `silver-merge-cell.png`<img width="3760" height="1582" alt="image" src="https://github.com/user-attachments/assets/454c092d-5ff0-49fc-9ef0-ec00ae153c87" />
+
+ | MERGE upsert pattern — only new rows inserted, existing rows preserved, pipeline reruns are safe |
+| `silver-row-count.png` <img width="2942" height="640" alt="image" src="https://github.com/user-attachments/assets/9108c706-d97c-4694-abb5-36d8a4aa8f5a" />
+| Post-merge validation showing 2,278 rows — confirms 654 + 762 + 862 rows loaded correctly |
 | `silver-table-explorer.png` | Lakehouse Explorer showing sales_silver Delta table with all 13 columns |
 
 ---
