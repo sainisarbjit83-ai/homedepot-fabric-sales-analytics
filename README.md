@@ -1,7 +1,9 @@
-# 🏠 Home Depot Fabric Sales Analytics
+ # 🔨 Retail Sales Analytics
 
-End-to-end Microsoft Fabric + Power BI project demonstrating medallion architecture, 
-dimensional modeling, and retail sales reporting on synthetic home-improvement sales data.
+End-to-end retail sales analytics project built on Microsoft Fabric 
+and Power BI — covering data ingestion, medallion architecture 
+(Bronze → Silver → Gold), dimensional modeling with Delta Lake, 
+and executive dashboarding using Direct Lake semantic model and DAX.
 
 ## 🏗️ Architecture
 
