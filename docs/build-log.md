@@ -1,4 +1,4 @@
-# Build Log — Home Depot Fabric Sales Analytics
+# Build Log —# 🔨 Retail Fabric Sales Analytics
 
 
 ## Phase 0 — Setup
