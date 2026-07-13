@@ -1,4 +1,4 @@
- # 🔨 Retail Sales Analytics
+ # 🔨 Retail Sales Analysis
 
 End-to-end retail sales analytics project built on Microsoft Fabric 
 and Power BI — covering data ingestion, medallion architecture 
